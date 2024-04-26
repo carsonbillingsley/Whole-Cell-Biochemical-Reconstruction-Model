@@ -1,0 +1,138 @@
+# Copyright SRI International 1999-2023, Marine Biological Laboratory 1998-2001, DoubleTwist Inc 1998-1999.  All Rights Reserved.
+#
+# Authors:
+#    Peter D. Karp
+#    Anamika Kothari
+#    Suzanne Paley
+#    Markus Krummenacker
+#    Ian Paulsen
+#    Amanda Mackie
+#    Lisa Moore
+#    Julio Collado-Vides
+#    Cesar Bonavides-Martinez
+#    Socorro Gama-Castro
+#    Alberto Santos-Zavaleta
+#    Victor H Tierrafria
+#    Paloma Lara Figueroa
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Filename: /home/kaffir2/brg/aic/pgdbs/tier1/ecocyc/27.1/data/species.dat
+#
+# Organism: Escherichia coli K-12 substr. MG1655
+# Database: EcoCyc
+# Version: 27.1
+# Date and time generated: August 21, 2023, 13:35:02
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - ECOLI
+TYPES - TAX-511145
+COMMON-NAME - Escherichia coli
+CCO-INSTANCES - CCI-CYTOSKELETON-GN
+CCO-INSTANCES - CCI-RIBOSOME-GN
+CCO-INSTANCES - CCI-BAC-NUCLEOID-GN
+CCO-INSTANCES - CCI-PILUS-GN
+CCO-INSTANCES - CCI-FLAGELLUM-GN
+CCO-INSTANCES - CCI-CW-BAC-NEG-GN
+CCO-INSTANCES - CCI-OUTER-MEM-GN
+CCO-INSTANCES - CCI-PM-BAC-NEG-GN
+CCO-INSTANCES - CCI-CYTOSOL-GN
+CCO-INSTANCES - CCI-EXTRACELLULAR-GN
+CCO-INSTANCES - CCI-PERI-BAC-GN
+CITATIONS - 34394059
+COMMENT - EcoCyc is a model-organism database for <i>Escherichia coli</i> K-12 MG1655. For more information, see URL EcoCyc.org.
+/
+/The <i>E. coli</i> genome sequence used in EcoCyc has been updated from version 2 to version 3, GenBank accession number U00096.3, for release 20.0 of EcoCyc. Despite the involvement of EcoCyc staff in ongoing updates to the U00096 record, some annotation differences may be found between U00096 and EcoCyc, such as due to recent updates to EcoCyc.
+/
+DBLINKS - (NCBI-TAXONOMY-DB "511145" NIL |pkarp| 3880114845 NIL NIL)
+DBLINKS - (GOLD "Gp0072557" NIL |paley| 3620197520 NIL NIL)
+GENETIC-CODE - 11
+GENOME - COLI-K12
+INFERENCE-STATS - (UNIPROT |kr| 3874866674 (("deleted protein features" . 1661) ("new protein features" . 1815) ("proteins with new features" . 210)))
+INFERENCE-STATS - (PFAM |kothari| 3853938337 (("Pfam features created" . 6148)))
+INFERENCE-STATS - (UNIPROT |kr| 3843608295 (("deleted protein features" . 25220) ("new protein features" . 26361) ("proteins with new features" . 3468)))
+INFERENCE-STATS - (PFAM |kothari| 3841364058 (("Pfam features created" . 6128)))
+INFERENCE-STATS - (UNIPROT |kr| 3838245663 (("deleted protein features" . 0) ("new protein features" . 0) ("proteins with new features" . 0)))
+INFERENCE-STATS - (PSORT |midford| 3814197078 (("Proteins with PSORTdb localizations" . 3265)))
+INFERENCE-STATS - (PFAM |kothari| 3812501302 (("Pfam features created" . 6097)))
+INFERENCE-STATS - (UNIPROT |kr| 3812413964 (("deleted protein features" . 165) ("new protein features" . 408) ("proteins with new features" . 81)))
+INFERENCE-STATS - (UNIPROT |kr| 3794261069 (("deleted protein features" . 58) ("new protein features" . 146) ("proteins with new features" . 41)))
+INFERENCE-STATS - (UNIPROT |kr| 3781289814 (("deleted protein features" . 135) ("new protein features" . 506) ("proteins with new features" . 96)))
+INFERENCE-STATS - (UNIPROT |kr| 3758567860 (("deleted protein features" . 206) ("new protein features" . 350) ("proteins with new features" . 70)))
+INFERENCE-STATS - (PFAM |kothari| 3756132123 (("Pfam features created" . 6081)))
+INFERENCE-STATS - (UNIPROT |kr| 3741644378 (("deleted protein features" . 116) ("new protein features" . 293) ("proteins with new features" . 82)))
+INFERENCE-STATS - (UNIPROT |kr| 3729277286 (("deleted protein features" . 208) ("new protein features" . 564) ("proteins with new features" . 89)))
+INFERENCE-STATS - (UNIPROT |kr| 3716326327 (("deleted protein features" . 297) ("new protein features" . 863) ("proteins with new features" . 162)))
+INFERENCE-STATS - (PFAM |kaipa| 3708888183 (("Pfam features created" . 6022)))
+INFERENCE-STATS - (UNIPROT |kr| 3696708920 (("deleted protein features" . 169) ("new protein features" . 496) ("proteins with new features" . 105)))
+INFERENCE-STATS - (UNIPROT |kr| 3685729204 (("deleted protein features" . 809) ("new protein features" . 2483) ("proteins with new features" . 619)))
+INFERENCE-STATS - (UNIPROT |kr| 3654471647 (("deleted protein features" . 9) ("new protein features" . 11) ("proteins with new features" . 7)))
+INFERENCE-STATS - (UNIPROT |kr| 3652137102 (("deleted protein features" . 23418) ("new protein features" . 23690) ("proteins with new features" . 3301)))
+INFERENCE-STATS - (UNIPROT |kr| 3632067807 (("deleted protein features" . 4888) ("new protein features" . 4951) ("proteins with new features" . 1038)))
+INFERENCE-STATS - (UNIPROT |kr| 3631916579 (("deleted protein features" . 0) ("new protein features" . 1) ("proteins with new features" . 1)))
+INFERENCE-STATS - (UNIPROT |holland| 3630674094 (("deleted protein features" . 191) ("new protein features" . 1010) ("proteins with new features" . 173)))
+INFERENCE-STATS - (UNIPROT |holland| 3610478797 (("deleted protein features" . 113) ("new protein features" . 559) ("proteins with new features" . 97)))
+INSTANCE-NAME-TEMPLATE - ORG-*
+MITOCHONDRIAL-GENETIC-CODE - 0
+PGDB-AUTHORS - pkarp
+PGDB-AUTHORS - kothari
+PGDB-AUTHORS - paley
+PGDB-AUTHORS - kr
+PGDB-AUTHORS - ipaulsen
+PGDB-AUTHORS - amackie
+PGDB-AUTHORS - moore
+PGDB-AUTHORS - collado
+PGDB-AUTHORS - cesar
+PGDB-AUTHORS - sgama
+PGDB-AUTHORS - santos-zavaleta
+PGDB-AUTHORS - tierrafria
+PGDB-AUTHORS - figueroa
+PGDB-COPYRIGHT - Copyright SRI International 1999-2023, Marine Biological Laboratory 1998-2001, DoubleTwist Inc 1998-1999.  All Rights Reserved.
+PGDB-FOOTER-CITATION - <a href="https://www.frontiersin.org/articles/10.3389/fmicb.2021.711077/full">Frontiers in Microbiology 2021</a>
+PGDB-LAST-CONSISTENCY-CHECK - 3900084278
+PGDB-NAME - EcoCyc
+PGDB-TIER - 1
+PGDB-UNIQUE-ID - 0
+RANK - |strain|
+STRAIN-NAME - K-12 substr. MG1655
+SYNONYMS - Escherichia coli K-12 substr. MG1655
+NCBI-TAXONOMY-ID - 511145

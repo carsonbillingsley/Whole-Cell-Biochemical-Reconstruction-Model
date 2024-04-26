@@ -1,0 +1,495 @@
+O-SUCCINYLBENZOATE-COA-LIG-RXN	6.1308333175722220000d-4	ATP + 2-succinylbenzoate + coenzyme A  ->  AMP + 4-(2'-carboxyphenyl)-4-oxobutyryl-CoA + diphosphate
+AICARSYN-RXN	0.8269298632908102    	5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole  ->  fumarate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide
+DIHYDRODIPICSYN-RXN	1.1170255687950237    	pyruvate + L-aspartate 4-semialdehyde  ->  (2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + H2O + H+
+TRANS-RXN-8	9.1962499763583330000d-4	Fe2+[periplasm]  ->  Fe2+[cytosol]
+PANTEPADENYLYLTRAN-RXN	1.226166663517032100d-3	ATP + 4'-phosphopantetheine + H+  ->  3'-dephospho-CoA + diphosphate
+RXN0-4361	2.09429266128267120d-2	D-glycero-beta-D-manno-heptose 1,7-bisphosphate + H2O  ->  D-glycero-beta-D-manno-heptose 1-phosphate + phosphate
+ETHAMLY-RXN	3.124885741966561500d-2	ethanolamine  ->  ammonium + acetaldehyde
+GDPKIN-RXN	1.1020264850835932    	GDP + ATP  ->  GTP + ADP
+RXN0-5124	5.2357316532066780000d-3	UDP-alpha-D-galactose + glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli)  ->  galactosyl-(1->6)-glucosyl-(1->3)-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli) + UDP + H+
+RXN0-6259	6.1308333175722220000d-4	protoporphyrinogen IX + 3 a menaquinone[inner membrane]  ->  protoporphyrin IX + 3 a menaquinol[inner membrane]
+PRPPSYN-RXN	2.1934221051945064    	D-ribose 5-phosphate + ATP  ->  5-phospho-alpha-D-ribose 1-diphosphate + AMP + H+
+GLYC3PDEHYDROGBIOSYN-RXN	0.5925082551434498    	glycerone phosphate + NAD(P)H + H+  ->  sn-glycerol 3-phosphate + NAD(P)+
+RXN0-5224	9.472704577730967    	hydrogencarbonate + H+  <-->  CO2 + H2O
+RXN-13615	10.    	decanoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E)-dec-2-enoyl-CoA + a reduced electron-transfer flavoprotein
+RXN-16424	3.10649324201384470d-2	a phosphorylated phosphoglucosamine mutase + D-glucosamine 6-phosphate  =  glucosamine 1,6-diphosphate + a phosphoglucosamine mutase
+2.5.1.64-RXN	6.1308333175722220000d-4	isochorismate + 2-oxoglutarate + H+  ->  2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate + CO2
+DIOHBUTANONEPSYN-RXN	1.8392499952716668000d-3	D-ribulose 5-phosphate  ->  1-deoxy-L-glycero-tetrulose 4-phosphate + formate + H+
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	1.226166663517032100d-3	a 5,10-methylenetetrahydrofolate + 3-methyl-2-oxobutanoate + H2O  <-->  2-dehydropantoate + a tetrahydrofolate
+RXN0-7139	3.10649324201384470d-2	glucosamine 1,6-diphosphate + a phosphoglucosamine mutase  =  alpha-D-glucosamine 1-phosphate + a phosphorylated phosphoglucosamine mutase
+DXPREDISOM-RXN	9.36638060092096200d-2	2-C-methyl-D-erythritol 4-phosphate + NADP+  <-->  1-deoxy-D-xylulose 5-phosphate + NADPH + H+
+HISTCYCLOHYD-RXN	0.32515181041410157    	1-(5-phospho-beta-D-ribosyl)-AMP + H2O  ->  1-(5-phospho-beta-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide
+RXN-22734	0.9754584966589634    	ATP + L-aspartate + ammonia  ->  AMP + L-asparagine + diphosphate
+TRANS-RXN0-500	3.0654166587861110000d-4	4-methylphenol[cytosol]  ->  4-methylphenol[periplasm]
+RXN-12611	3.0654166587861110000d-4	2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + 4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine + 2 H+  ->  thiamine phosphate + CO2 + diphosphate
+RXN-17776	10.    	(S)-3-hydroxy-(9Z)-octadecenoyl-CoA  <-->  (2E,9Z)-octadec-2,9-enoyl-CoA + H2O
+GLUTCYSLIG-RXN	3.0654166587861110000d-4	L-cysteine + L-glutamate + ATP  ->  gamma-L-glutamyl-L-cysteine + ADP + phosphate + H+
+2.1.1.79-RXN	0.19158547575747314    	a [phospholipid] cis-olefinic fatty acid + S-adenosyl-L-methionine  ->  a [phospholipid] fatty acid containing cyclopropane + S-adenosyl-L-homocysteine + H+
+GSAAMINOTRANS-RXN	7.356999981086667000d-3	(S)-4-amino-5-oxopentanoate  ->  5-aminolevulinate
+2.7.7.60-RXN	9.36638060092096200d-2	2-C-methyl-D-erythritol 4-phosphate + CTP + H+  ->  4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + diphosphate
+SHIKIMATE-5-DEHYDROGENASE-RXN	1.3996171343185388    	3-dehydroshikimate + NADPH + H+  ->  shikimate + NADP+
+H2PTERIDINEPYROPHOSPHOKIN-RXN	1.2261666635144368000d-3	6-(hydroxymethyl)-7,8-dihydropterin + ATP  ->  (7,8-dihydropterin-6-yl)methyl diphosphate + AMP + H+
+N-ACETYLTRANSFER-RXN	1.0033997695037988    	L-glutamate + acetyl-CoA  ->  N-acetyl-L-glutamate + coenzyme A + H+
+ACONITATEDEHYDR-RXN	48.799036469530265    	citrate  <-->  cis-aconitate + H2O
+RXN-14277	10.    	3-oxooctanoyl-CoA + coenzyme A  ->  hexanoyl-CoA + acetyl-CoA
+RXN-8342	3.0654166587861110000d-4	cyclic pyranopterin phosphate + 2 a thiocarboxylated [small subunit of molybdopterin synthase] + H2O  ->  2 a small subunit of molybdopterin synthase + molybdopterin + 4 H+
+RXN-17473	3.0654166587861110000d-4	4,5-secobiotin + S-adenosyl-L-methionine  ->  5'-deoxyadenosine + L-methionine + biotin + H+
+RXN-18804	7.356999981086667000d-3	L-glutamate + ATP + H+  ->  (L-glutamyl)adenylate + diphosphate
+ENTG-RXN	3.0654166587861110000d-4	3 an N-(2,3-dihydroxybenzoyl)-seryl-[EntF L-seryl-carrier protein]  ->  enterobactin + 3 a holo-[EntF L-seryl-carrier protein]
+RXN-8992	6.1308333175722220000d-4	(2E,6E)-farnesyl diphosphate + 5 3-methylbut-3-en-1-yl diphosphate  ->  all-trans-octaprenyl diphosphate + 5 diphosphate
+ISPH2-RXN	8.47587706154359600d-2	(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+  ->  3-methylbut-3-en-1-yl diphosphate + 2 an oxidized ferredoxin [iron-sulfur] cluster + H2O
+RXN-19329	4.971799278885192000d-2	7,8-dihydrofolate monoglutamate + NADPH + H+  ->  5,6,7,8-tetrahydrofolate + NADP+
+TRANSALDOL-RXN	0.2665032370926562    	D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  <-->  beta-D-fructofuranose 6-phosphate + D-erythrose 4-phosphate
+RXN-9951	16.76613027840802    	D-threo-isocitrate + NADP+  <-->  oxalosuccinate + NADPH + H+
+3PGAREARR-RXN	11.045368569660226    	2-phospho-D-glycerate  <-->  3-phospho-D-glycerate
+RXN-9516	0.995058770775242    	a butanoyl-[acp] + a malonyl-[acp] + H+  ->  a 3-oxohexanoyl-[acp] + CO2 + acyl-carrier protein
+RXN0-743	0.8269298632908102    	N5-carboxyaminoimidazole ribonucleotide  ->  5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate
+TRANS-RXN0-600	15.99140115859857    	an inorganic compound[periplasm]  <-->  an inorganic compound[extracellular space]
+S-ADENMETSYN-RXN	0.2167801352760362    	ATP + L-methionine + H2O  ->  S-adenosyl-L-methionine + phosphate + diphosphate
+METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN	2.05965345303838750d-2	S-methyl-5'-thioadenosine + H2O  ->  5-(methylsulfanyl)-D-ribose + adenine
+RXN0-7229	3.06541665878603500000d-4	glycolate + an electron-transfer quinone[inner membrane]  ->  glyoxylate + an electron-transfer quinol[inner membrane]
+ADPREDUCT-RXN	4.849182612533748400d-2	ADP + a reduced thioredoxin  ->  dADP + an oxidized thioredoxin + H2O
+SUCCCOASYN-RXN	11.12595674749108    	succinate + coenzyme A + ATP  <-->  succinyl-CoA + ADP + phosphate
+RXN-15131	0.4993747662162102    	L-cystathionine  ->  2-aminoprop-2-enoate + L-homocysteine
+RIBONUCLEOSIDE-DIP-REDUCTI-RXN	5.00551886213184000d-2	a reduced thioredoxin + a ribonucleoside diphosphate  ->  an oxidized thioredoxin + a 2'-deoxyribonucleoside 5'-diphosphate + H2O
+RXN-11476	3.0654166587861110000d-4	a 3-oxoglutaryl-[acp] methyl ester + NADPH + H+  ->  a (3R)-3-hydroxyglutaryl-[acp] methyl ester + NADP+
+RXN-9523	0.995058770775242    	a hexanoyl-[acp] + a malonyl-[acp] + H+  ->  a 3-oxooctanoyl-[acp] + CO2 + acyl-carrier protein
+RXN-9558	0.21095277820768377    	a (2E,11Z)-octadeca-2,11-dienoyl-[acp] + NADH + H+  ->  a cis-vaccenoyl-[acp] + NAD+
+TRANS-RXN-114	4.830382412165317    	phosphate[periplasm] + H+[periplasm]  <-->  phosphate[cytosol] + H+[cytosol]
+PANTOTHENATE-KIN-RXN	1.226166663517032100d-3	(R)-pantothenate + ATP  ->  (R)-4'-phosphopantothenate + ADP + H+
+3-OXOACYL-ACP-REDUCT-RXN	1.9901175415504835    	a 3-oxoacyl-[acyl-carrier protein] + NADPH + H+  ->  a (3R)-3-hydroxyacyl-[acyl-carrier protein] + NADP+
+PHOSGLYPHOS-RXN	5.995413427642598    	3-phospho-D-glycerate + ATP  <-->  3-phospho-D-glyceroyl phosphate + ADP
+BUTYRYL-COA-DEHYDROGENASE-RXN	10.    	butanoyl-CoA + an oxidized electron-transfer flavoprotein + H+  <-->  crotonyl-CoA + a reduced electron-transfer flavoprotein
+GDPREDUCT-RXN	5.00551886213184000d-2	GDP + a reduced thioredoxin  ->  dGDP + an oxidized thioredoxin + H2O
+RXN-11479	3.0654166587861110000d-4	a glutaryl-[acp] methyl ester + a malonyl-[acp] + H+  ->  a 3-oxopimeloyl-[acp] methyl ester + CO2 + acyl-carrier protein
+RXN-17022	1.2322974968320166000d-3	a myristoyl-[acp] + 1-myristoyl-sn-glycerol 3-phosphate  ->  1,2-dimyristoyl-sn-glycerol 3-phosphate + acyl-carrier protein
+RXN0-5127	5.2357316532066780000d-3	galactosyl-(glucosyl)3-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli) + ADP-L-glycero-beta-D-manno-heptose  ->  lipid A-core oligosaccharide (E. coli K-12 core type) + ADP + H+
+RXN-9657	0.995058770775242    	a (2E)-but-2-enoyl-[acp] + NADH + H+  ->  a butanoyl-[acp] + NAD+
+RXN0-5055	7.114445822543556    	acetyl-CoA + a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine  ->  malonyl-CoA + a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine
+RXN0-6442	9.1962499763583330000d-4	(2,3-dihydroxybenzoyl)adenylate + a holo-[2,3-dihydroxybenzoyl-carrier protein]  ->  a 2,3-dihydroxybenzoyl-[2,3-dihydroxybenzoyl-carrier protein] + AMP + H+
+RIBOFLAVINKIN-RXN	6.1308333175722220000d-4	ATP + riboflavin  ->  ADP + FMN + H+
+1.8.4.8-RXN	0.8272854516232218    	3'-phosphoadenylyl-sulfate + a reduced thioredoxin  ->  adenosine 3',5'-bisphosphate + sulfite + an oxidized thioredoxin + 2 H+
+DIAMINOPIMEPIM-RXN	1.1170255687950237    	L,L-diaminopimelate  <-->  meso-diaminopimelate
+RXN-11319	3.0654166587861110000d-4	L-tyrosine + S-adenosyl-L-methionine + NADPH  ->  2-iminoacetate + 4-methylphenol + 5'-deoxyadenosine + L-methionine + NADP+ + H+
+RXN-10654	0.5112226016024184    	a (5Z)-dodec-5-enoyl-[acp] + a malonyl-[acp] + H+  ->  a (7Z)-3-oxotetradec-7-enoyl-[acp] + acyl-carrier protein + CO2
+RXN-11482	3.0654166587861110000d-4	a (2E)-enoylpimeloyl-[acp] methyl ester + NADH + H+  ->  a pimeloyl-[acp] methyl ester + NAD+
+DMK-RXN	6.1308333175722220000d-4	all-trans-octaprenyl diphosphate + 1,4-dihydroxy-2-naphthoate + H+  ->  CO2 + demethylmenaquinol-8 + diphosphate
+RXN-15891	9.1962499763583330000d-4	a 2,3-dihydroxybenzoyl-[2,3-dihydroxybenzoyl-carrier protein] + a seryl-[EntF L-seryl-carrier protein]  ->  a holo-[2,3-dihydroxybenzoyl-carrier protein] + an N-(2,3-dihydroxybenzoyl)-seryl-[EntF L-seryl-carrier protein] + H+
+RXN-9533	0.4838361691728233    	a (3R)-3-hydroxydodecanoyl-[acp]  ->  a (2E)-dodec-2-enoyl-[acp] + H2O
+FPPSYN-RXN	8.905035393773651000d-3	geranyl diphosphate + 3-methylbut-3-en-1-yl diphosphate  ->  (2E,6E)-farnesyl diphosphate + diphosphate
+RXN0-6550	2.7588749929074996d-3	5'-deoxyadenosine + H2O  ->  5-deoxy-D-ribose + adenine
+GAPOXNPHOSPHN-RXN	5.995413427642598    	D-glyceraldehyde 3-phosphate + NAD+ + phosphate  <-->  3-phospho-D-glyceroyl phosphate + NADH + H+
+GLUTRACE-RXN	7.678868730259207000d-3	L-glutamate  <-->  D-glutamate
+1TRANSKETO-RXN	0.2455603104798295    	D-sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate  <-->  D-ribose 5-phosphate + D-xylulose 5-phosphate
+RXN-10657	0.5112226016024184    	a (2E,7Z)-tetradeca-2,7-dienoyl-[acp] + NADH + H+  ->  a (7Z)-tetradec-7-enoyl-[acp] + NAD+
+RXN-12473	6.1308333175722220000d-4	a carboxy-adenylated [small subunit of molybdopterin synthase] + a [molybdopterin synthase sulfurtransferase]-S-sulfanyl-L-cysteine + a reduced two electron carrier  ->  a thiocarboxylated [small subunit of molybdopterin synthase] + a [molybdopterin synthase sulfurtransferase]-L-cysteine + AMP + an oxidized electron carrier + H+
+RXN-17012	0.23466071064673555    	a palmitoleoyl-[acp] + 1-palmitoyl-sn-glycerol 3-phosphate  ->  1-palmitoyl-2-palmitoleoyl-sn-glycerol 3-phosphate + acyl-carrier protein
+RXN-9537	0.45765751090678997    	a (3R)-3-hydroxytetradecanoyl-[acp]  ->  a (2E)-tetradec-2-enoyl-[acp] + H2O
+RXN-9663	0.4259273830716949    	a (2E)-hexadec-2-enoyl-[acp] + NADH + H+  ->  a palmitoyl-[acp] + NAD+
+RXN0-2141	0.5112226016024184    	a (3Z)-dec-3-enoyl-[acp] + a malonyl-[acp] + H+  ->  a (5Z)-3-oxododec-5-enoyl-[acp] + acyl-carrier protein + CO2
+HEMEOSYN-RXN	3.0654166587861110000d-4	(2E,6E)-farnesyl diphosphate + protoheme + H2O  ->  ferroheme o + diphosphate
+RXN-16997	3.56569265750000360d-2	a phosphorylated phosphoglucomutase + alpha-D-glucopyranose 1-phosphate  <-->  alpha-D-glucose 1,6-bisphosphate + a phosphoglucomutase
+4.2.1.61-RXN	0.4259273830716949    	a (3R)-3-hydroxyhexadecanoyl-[acp]  ->  a (2E)-hexadec-2-enoyl-[acp] + H2O
+FERREDOXIN--NAD+-REDUCTASE-RXN	3.0654166587861110000d-4	2 an oxidized [2Fe-2S] ferredoxin + NADH  ->  2 a reduced [2Fe-2S] ferredoxin + NAD+ + H+
+IGPSYN-RXN	0.21039180695912593    	1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate + H+  ->  (1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate + CO2 + H2O
+RXN-10660	0.5112226016024184    	a (3R,9Z)-3-hydroxyhexadec-9-enoyl-[acp]  ->  a (2E,9Z)-hexadeca-2,9-dienoyl-[acp] + H2O
+RXN-17015	3.21102395007845100d-2	a cis-vaccenoyl-[acp] + 1-cis-vaccenoyl-sn-glycerol-3-phosphate  ->  1,2-bis-cis-vaccenoyl-phosphatidate + acyl-carrier protein
+RXN-9310	6.1308333175722220000d-4	2-succinyl-5-enolpyruvoyl-6-hydroxy-3-cyclohexene-1-carboxylate  ->  (1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate + pyruvate
+KDO-8PSYNTH-RXN	1.047146330641335600d-2	D-arabinofuranose 5-phosphate + phosphoenolpyruvate + H2O  ->  3-deoxy-D-manno-octulosonate 8-phosphate + phosphate
+RXN-9514	0.995058770775242    	an acetoacetyl-[acp] + NADPH + H+  ->  a (3R)-3-hydroxybutanoyl-[acp] + NADP+
+RXN-9789	3.0654166587861110000d-4	a [ThiS sulfur-carrier protein] + ATP + H+  ->  a carboxy-adenylated-[ThiS sulfur-carrier protein] + diphosphate
+RXN0-2145	0.5112226016024184    	a (2E,5Z)-dodeca-3,5-dienoyl-[acp] + NADH + H+  ->  a (5Z)-dodec-5-enoyl-[acp] + NAD+
+LIPIDXSYNTHESIS-RXN	5.2357316532066780000d-3	UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine + H2O  ->  lipid X (E. coli) + UMP + 2 H+
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	1.047146330641335600d-2	a (3R)-3-hydroxytetradecanoyl-[acp] + UDP-N-acetyl-alpha-D-glucosamine  ->  UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetyl-alpha-D-glucosamine + acyl-carrier protein
+SAMDECARB-RXN	2.05965345303838750d-2	S-adenosyl-L-methionine + H+  ->  CO2 + S-adenosyl 3-(methylsulfanyl)propylamine
+RXN-11474	3.0654166587861110000d-4	a malonyl-[acp] methyl ester + a malonyl-[acp] + H+  ->  a 3-oxoglutaryl-[acp] methyl ester + CO2 + acyl-carrier protein
+RXN-17018	0.38287054068238524    	a palmitoyl-[acp] + sn-glycerol 3-phosphate  ->  1-palmitoyl-sn-glycerol 3-phosphate + acyl-carrier protein
+ACETYLORNTRANSAM-RXN	1.0033997695037988    	N-acetyl-L-ornithine + 2-oxoglutarate  <-->  N-acetyl-L-glutamate 5-semialdehyde + L-glutamate
+RXN-9520	0.995058770775242    	a (3R)-3-hydroxyhexanoyl-[acp]  ->  a (2E)-hex-2-enoyl-[acp] + H2O
+NAPHTHOATE-SYN-RXN	6.1308333175722220000d-4	4-(2'-carboxyphenyl)-4-oxobutyryl-CoA + H+  ->  1,4-dihydroxy-2-naphthoyl-CoA + H2O
+RXN-9557	0.21095277820768377    	a (3R,11Z)-3-hydroxyoctadec-11-enoyl-[acp]  ->  a (2E,11Z)-octadeca-2,11-dienoyl-[acp] + H2O
+ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN	0.19281164242098758    	S-adenosyl-L-homocysteine + H2O  ->  S-ribosyl-L-homocysteine + adenine
+THI-P-KIN-RXN	3.0654166587861110000d-4	thiamine phosphate + ATP  ->  ADP + thiamine diphosphate
+ORNCARBAMTRANSFER-RXN	0.918080027639805    	L-ornithine + carbamoyl phosphate  <-->  L-citrulline + phosphate + H+
+ALARACECAT-RXN	1.535773746051841400d-2	L-alanine  <-->  D-alanine
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	0.9950587707752417    	a (3R)-3-hydroxyacyl-[acyl-carrier protein]  ->  a trans-2-enoyl-[acyl-carrier protein] + H2O
+PEPCARBOXYKIN-RXN	13.862753170333978    	oxaloacetate + ATP  <-->  CO2 + phosphoenolpyruvate + ADP
+RXN-11478	3.0654166587861110000d-4	a (2E)-enoylglutaryl-[acp] methyl ester + NADH + H+  ->  a glutaryl-[acp] methyl ester + NAD+
+TYROSINE-AMINOTRANSFERASE-RXN	0.5358532244557649    	L-tyrosine + 2-oxoglutarate  <-->  3-(4-hydroxyphenyl)pyruvate + L-glutamate
+PHOSPHAGLYPSYN-RXN	0.1106860647154489    	a CDP-diacylglycerol + sn-glycerol 3-phosphate  ->  CMP + a phosphatidylglycerophosphate + H+
+URA-PHOSPH-RXN	4.849182612533748400d-2	2'-deoxyuridine + phosphate  <-->  2-deoxy-alpha-D-ribose 1-phosphate + uracil
+PRAISOM-RXN	0.21039180695912593    	N-(5-phosphoribosyl)-anthranilate  ->  1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate
+RXN-9655	0.9950587707752417    	a (3R)-3-hydroxydecanoyl-[acp]  ->  a (2E)-dec-2-enoyl-[acp] + H2O
+RXN-20673	1.3996171343185388    	3-deoxy-D-arabino-heptulosonate 7-phosphate  ->  3-deoxy-D-arabino-heptulopyranuronate 7-phosphate
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	1.3771200414597076    	L-valine + 2-oxoglutarate  <-->  3-methyl-2-oxobutanoate + L-glutamate
+3-OXOACYL-ACP-SYNTH-RXN	0.9950587707752417    	a malonyl-[acp] + a 2,3,4-saturated fatty acyl-[acp] + H+  ->  acyl-carrier protein + a 3-oxoacyl-[acyl-carrier protein] + CO2
+QUINOPRIBOTRANS-RXN	1.2261666635144444000d-3	5-phospho-alpha-D-ribose 1-diphosphate + quinolinate + 2 H+  ->  beta-nicotinate D-ribonucleotide + CO2 + diphosphate
+DAHPSYN-RXN	1.3996171343185388    	phosphoenolpyruvate + D-erythrose 4-phosphate + H2O  ->  3-deoxy-D-arabino-heptulosonate 7-phosphate + phosphate
+RXN-11481	3.0654166587861110000d-4	a (3R)-3-hydroxypimeloyl-[acp] methyl ester  ->  a (2E)-enoylpimeloyl-[acp] methyl ester + H2O
+RXN-15890	9.1962499763583330000d-4	a holo-[EntF L-seryl-carrier protein] + (L-seryl)adenylate  ->  a seryl-[EntF L-seryl-carrier protein] + AMP + H+
+RXN-17024	4.4264616552871444000d-3	1-palmitoyl-sn-glycerol 3-phosphate + a myristoyl-[acp]  ->  1-palmitoyl-2-myristoyl phosphatidate + acyl-carrier protein
+RXN-9532	0.4838361691728233    	a 3-oxododecanoyl-[acp] + NADPH + H+  ->  a (3R)-3-hydroxydodecanoyl-[acp] + NADP+
+THIOREDOXIN-REDUCT-NADPH-RXN	0.975887654991196    	an oxidized thioredoxin + NADPH + H+  ->  a reduced thioredoxin + NADP+
+ENOYL-ACP-REDUCT-NADPH-RXN	0.4838361691728233    	a trans-2-enoyl-[acyl-carrier protein] + NADPH + H+  ->  a 2,3,4-saturated fatty acyl-[acp] + NADP+
+LAUROYLACYLTRAN-RXN	5.2357316532066780000d-3	a dodecanoyl-[acp] + alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA (E. coli)  ->  alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-(lauroyl)-lipid IVA (E. coli) + acyl-carrier protein
+RXN-10656	0.5112226016024184    	a (3R,7Z)-3-hydroxytetradec-7-enoyl-[acp]  ->  a (2E,7Z)-tetradeca-2,7-dienoyl-[acp] + H2O
+RXN-7716	12.742663624168191    	a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine + NAD+  ->  a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + NADH + H+
+RXN-9536	0.4786004375196167    	a 3-oxotetradecanoyl-[acp] + NADPH + H+  ->  a (3R)-3-hydroxytetradecanoyl-[acp] + NADP+
+RXN-9662	0.45765751090678997    	a (2E)-tetradec-2-enoyl-[acp] + NADH + H+  ->  a myristoyl-[acp] + NAD+
+RXN0-6705	4.305684238930971300d-2	1-palmitoyl-sn-glycerol 3-phosphate + a palmitoyl-[acp]  ->  dipalmitoyl phosphatidate + acyl-carrier protein
+2.3.1.180-RXN	0.995058770775242    	acetyl-CoA + a malonyl-[acp] + H+  ->  an acetoacetyl-[acp] + coenzyme A + CO2
+2TRANSKETO-RXN	1.666120371411195    	D-erythrose 4-phosphate + D-xylulose 5-phosphate  <-->  beta-D-fructofuranose 6-phosphate + D-glyceraldehyde 3-phosphate
+MALONYL-COA-ACP-TRANSACYL-RXN	7.114139280877678    	acyl-carrier protein + malonyl-CoA  ->  a malonyl-[acp] + coenzyme A
+RXN-10659	0.5112226016024184    	a (9Z)-3-oxohexadec-9-enoyl-[acp] + NADPH + H+  ->  a (3R,9Z)-3-hydroxyhexadec-9-enoyl-[acp] + NADP+
+HISTAMINOTRANS-RXN	0.32515181041410157    	L-histidinol phosphate + 2-oxoglutarate  <-->  3-(imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate
+RXN-17014	0.10072652599105282    	a cis-vaccenoyl-[acp] + 1-palmitoyl-sn-glycerol 3-phosphate  ->  1-palmitoyl-2-cis-vaccenoyl phosphatidate + acyl-carrier protein
+IMPCYCLOHYDROLASE-RXN	1.1520816737049118    	IMP + H2O  <-->  5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide
+RXN-9540	0.4259273830716949    	a 3-oxohexadecanoyl-[acp] + NADPH + H+  ->  a (3R)-3-hydroxyhexadecanoyl-[acp] + NADP+
+RXN-9788	3.0654166587861110000d-4	a [ThiI sulfur-carrier protein]-S-sulfanyl-L-cysteine + a carboxy-adenylated-[ThiS sulfur-carrier protein] + 2 a reduced ferredoxin [iron-sulfur] cluster  ->  a thiocarboxylated-[ThiS sulfur-carrier protein] + a [ThiI sulfur-carrier protein]-L-cysteine + AMP + 2 an oxidized ferredoxin [iron-sulfur] cluster
+RXN0-2144	0.5112226016024184    	a (3R,5Z)-3-hydroxydodec-5-enoyl-[acp]  ->  a (2E,5Z)-dodeca-3,5-dienoyl-[acp] + H2O
+RXN-17775	10.    	oleoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E,9Z)-octadec-2,9-enoyl-CoA + a reduced electron-transfer flavoprotein
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	1.047146330641335600d-2	a (3R)-3-hydroxytetradecanoyl-[acp] + UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine  ->  UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine + acyl-carrier protein + H+
+LUMAZINESYN-RXN	1.8392499952716668000d-3	5-amino-6-(D-ribitylamino)uracil + 1-deoxy-L-glycero-tetrulose 4-phosphate  ->  6,7-dimethyl-8-(1-D-ribityl)lumazine + phosphate + H+ + 2 H2O
+PYRUFLAVREDUCT-RXN	8.96787643527876700d-2	pyruvate + coenzyme A + 2 an oxidized ferredoxin [iron-sulfur] cluster  <-->  acetyl-CoA + CO2 + 2 a reduced ferredoxin [iron-sulfur] cluster + H+
+RXN-11361	6.1308333175722220000d-4	a small subunit of molybdopterin synthase + ATP + H+  ->  a carboxy-adenylated [small subunit of molybdopterin synthase] + diphosphate
+RXN-17017	2.083563702976919700d-2	a myristoyl-[acp] + sn-glycerol 3-phosphate  ->  1-myristoyl-sn-glycerol 3-phosphate + acyl-carrier protein
+SERINE-O-ACETTRAN-RXN	0.8272854516232218    	L-serine + acetyl-CoA  ->  O-acetyl-L-serine + coenzyme A
+RXN-9518	0.995058770775242    	a 3-oxohexanoyl-[acp] + NADPH + H+  ->  a (3R)-3-hydroxyhexanoyl-[acp] + NADP+
+RXN-9556	0.21095277820768377    	an (11Z)-3-oxooctadec-11-enoyl-[acp] + NADPH + H+  ->  a (3R,11Z)-3-hydroxyoctadec-11-enoyl-[acp] + NADP+
+N-ACETYLGLUTPREDUCT-RXN	1.0033997695037988    	N-acetyl-L-glutamate 5-semialdehyde + NADP+ + phosphate  <-->  N-acetylglutamyl-phosphate + NADPH + H+
+RXN0-302	9.36638060092096200d-2	2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol  ->  CMP + 2-C-methyl-D-erythritol-2,4-cyclodiphosphate
+ADENYL-KIN-RXN	16.296902265061984    	AMP + ATP  <-->  2 ADP
+2OXOGLUTDECARB-RXN	12.742663624168191    	2-oxoglutarate + a [2-oxoglutarate dehydrogenase E2 protein] N6-lipoyl-L-lysine + H+  ->  a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine + CO2
+BIOTIN-CARBOXYL-RXN	7.114445822543556    	a [biotin carboxyl-carrier-protein dimer]-N6-biotinyl-L-lysine + hydrogencarbonate + ATP  ->  a [carboxyl-carrier protein dimer]-N6-carboxybiotinyl-L-lysine + ADP + phosphate + H+
+OROTPDECARB-RXN	0.6132488642567967    	orotidine 5'-phosphate + H+  ->  CO2 + UMP
+MYRISTOYLACYLTRAN-RXN	5.2357316532066780000d-3	a myristoyl-[acp] + alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-(lauroyl)-lipid IVA (E. coli)  ->  alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid A (E. coli) + acyl-carrier protein
+RXN-11477	3.0654166587861110000d-4	a (3R)-3-hydroxyglutaryl-[acp] methyl ester  ->  a (2E)-enoylglutaryl-[acp] methyl ester + H2O
+RXN-17020	1.96033395329371800d-2	a palmitoleoyl-[acp] + 1-myristoyl-sn-glycerol 3-phosphate  ->  1-myristoyl-2-palmitoleoyl-sn-glycerol 3-phosphate + acyl-carrier protein
+RXN-19737	5.2357316532066780000d-3	UDP-N-acetyl-alpha-D-glucosamine + lipid A-core oligosaccharide (E. coli K-12 core type)  ->  lipid A-core oligosaccharide (E. coli K-12 core type with D-GlcNAc) + UDP + H+
+AMPSYN-RXN	0.7011742102807689    	adenylosuccinate  ->  fumarate + AMP
+UDP-NACMURALGLDAPAALIG-RXN	7.678868730259207000d-3	D-alanyl-D-alanine + UDP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP + ATP  ->  UDP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP-D-Ala-D-Ala + ADP + phosphate + H+
+ASPARTATEKIN-RXN	1.6164003350112337    	L-aspartate + ATP  ->  L-aspartyl-4-phosphate + ADP
+RXN0-5114	5.049955142017630    	O-phospho-L-serine + H2O  ->  L-serine + phosphate
+PRIBFAICARPISOM-RXN	0.32515181041410157    	1-(5-phospho-beta-D-ribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide  ->  phosphoribulosylformimino-AICAR-phosphate
+RXN-20676	10.    	(S)-3-hydroxydodecanoyl-CoA + NAD+  ->  3-oxododecanoyl-CoA + NADH + H+
+CARDIOLIPSYN-RXN	1.269695580069207200d-2	2 a phosphatidylglycerol  ->  a cardiolipin + glycerol
+RXN-11480	3.0654166587861110000d-4	a 3-oxopimeloyl-[acp] methyl ester + NADPH + H+  ->  a (3R)-3-hydroxypimeloyl-[acp] methyl ester + NADP+
+DARAB5PISOM-RXN	1.047146330641335600d-2	aldehydo-D-arabinose 5-phosphate  <-->  D-ribulose 5-phosphate
+RXN-21523	9.1962499763583340000d-4	a [hydroxymethylbilane synthase] ES2 intermediate + porphobilinogen  ->  a [hydroxymethylbilane synthase] ES3 intermediate + ammonium
+DEPHOSPHOCOAKIN-RXN	1.226166663517032100d-3	3'-dephospho-CoA + ATP  ->  coenzyme A + ADP + H+
+RXN-9531	0.4838361691728233    	a decanoyl-[acp] + a malonyl-[acp] + H+  ->  a 3-oxododecanoyl-[acp] + CO2 + acyl-carrier protein
+RXN-9658	0.995058770775242    	a (2E)-hex-2-enoyl-[acp] + NADH + H+  ->  a hexanoyl-[acp] + NAD+
+DIHYDROFOLATESYNTH-RXN	1.2261666635144368000d-3	L-glutamate + 7,8-dihydropteroate + ATP  ->  ADP + 7,8-dihydrofolate monoglutamate + phosphate + H+
+RXN0-5461	0.19281164242098758    	autoinducer 2 + ATP  ->  (2S)-2-hydroxy-3,4-dioxopentyl phosphate + ADP + H+
+RXN-11475	3.0654166587861110000d-4	a malonyl-[acp] + S-adenosyl-L-methionine  ->  a malonyl-[acp] methyl ester + S-adenosyl-L-homocysteine
+THIAZOLSYN2-RXN	3.0654166587861110000d-4	1-deoxy-D-xylulose 5-phosphate + 2-iminoacetate + a thiocarboxylated-[ThiS sulfur-carrier protein]  ->  2-[(2R,5Z)-2-carboxy-4-methylthiazol-5(2H)-ylidene]ethyl phosphate + a [ThiS sulfur-carrier protein] + 2 H2O
+ENOYL-ACP-REDUCT-NADH-RXN	0.9950587707752417    	a trans-2-enoyl-[acyl-carrier protein] + NADH + H+  ->  a 2,3,4-saturated fatty acyl-[acp] + NAD+
+RXN-10655	0.5112226016024184    	a (7Z)-3-oxotetradec-7-enoyl-[acp] + NADPH + H+  ->  a (3R,7Z)-3-hydroxytetradec-7-enoyl-[acp] + NADP+
+FUMHYDR-RXN	20.90454494832458    	(S)-malate  <-->  fumarate + H2O
+RXN-11483	3.0654166587861110000d-4	a pimeloyl-[acp] methyl ester + H2O  ->  a pimeloyl-[acp] + methanol + H+
+RXN-9535	0.4786004375196167    	a dodecanoyl-[acp] + a malonyl-[acp] + H+  ->  a 3-oxotetradecanoyl-[acp] + CO2 + acyl-carrier protein
+RXN-9661	0.4838361691728233    	a (2E)-dodec-2-enoyl-[acp] + NADH + H+  ->  a dodecanoyl-[acp] + NAD+
+RXN0-1147	12.742663624168191    	coenzyme A + a [2-oxoglutarate dehydrogenase E2 protein] N6-S-succinyldihydrolipoyl-L-lysine  ->  succinyl-CoA + a [2-oxoglutarate dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine
+2.3.1.179-RXN	0.21095277820768377    	a palmitoleoyl-[acp] + a malonyl-[acp] + H+  ->  an (11Z)-3-oxooctadec-11-enoyl-[acp] + CO2 + acyl-carrier protein
+RXN-13617	10.    	3-oxodecanoyl-CoA + coenzyme A  ->  octanoyl-CoA + acetyl-CoA
+4.2.1.58-RXN	0.995058770775242    	a (3R)-3-hydroxybutanoyl-[acp]  ->  a (2E)-but-2-enoyl-[acp] + H2O
+RXN-10658	0.5112226016024184    	a (7Z)-tetradec-7-enoyl-[acp] + a malonyl-[acp] + H+  ->  a (9Z)-3-oxohexadec-9-enoyl-[acp] + acyl-carrier protein + CO2
+RXN-17013	4.600577321506195000d-2	a palmitoleoyl-[acp] + 1-cis-vaccenoyl-sn-glycerol-3-phosphate  ->  1-cis-vaccenoyl-2-palmitoleoyl-sn-glycerol-3-phosphate + acyl-carrier protein
+RXN-14196	1.5313288918966017    	carbamate + ATP  <-->  carbamoyl phosphate + ADP
+RXN-9539	0.4259273830716949    	a myristoyl-[acp] + a malonyl-[acp] + H+  ->  a 3-oxohexadecanoyl-[acp] + CO2 + acyl-carrier protein
+HISTOLDEHYD-RXN	0.32515181041410157    	histidinol + NAD+  <-->  histidinal + NADH + H+
+RXN0-2142	0.5112226016024184    	a (5Z)-3-oxododec-5-enoyl-[acp] + NADPH + H+  ->  a (3R,5Z)-3-hydroxydodec-5-enoyl-[acp] + NADP+
+RXN-14325	0.2975078829851685    	ATP + UTP + ammonia  ->  ADP + CTP + phosphate + H+
+FLAVONADPREDUCT-RXN	9.36638060092096200d-2	a reduced flavodoxin + NADP+  <-->  an oxidized flavodoxin + NADPH + H+
+RXN-17778	10.    	3-oxo-(9Z)-octadecenoyl-CoA + coenzyme A  ->  (7Z)-hexadecenoyl-CoA + acetyl-CoA
+RXN-10661	0.5112226016024184    	a (2E,9Z)-hexadeca-2,9-dienoyl-[acp] + NADH + H+  ->  a palmitoleoyl-[acp] + NAD+
+RXN-17016	7.81160127158464600d-2	a cis-vaccenoyl-[acp] + sn-glycerol 3-phosphate  ->  1-cis-vaccenoyl-sn-glycerol-3-phosphate + acyl-carrier protein
+METHENYLTHFCYCLOHYDRO-RXN	1.9796246203274792    	a 5,10-methenyltetrahydrofolate + H2O  <-->  an N10-formyltetrahydrofolate + H+
+SIROHEME-FERROCHELAT-RXN	3.0654166587861110000d-4	sirohydrochlorin + Fe2+  ->  siroheme + 2 H+
+RXN-15121	0.8989518276889797    	(Z)-2-aminobutenoate  ->  2-iminobutanoate
+NAD-KIN-RXN	6.1308333175722220000d-4	ATP + NAD+  ->  ADP + NADP+ + H+
+ACSERLY-RXN	0.8272854516232218    	O-acetyl-L-serine + hydrogen sulfide  ->  L-cysteine + acetate + H+
+SULFATE-ADENYLYLTRANS-RXN	0.8272854516232218    	sulfate + ATP + H+  ->  adenosine 5'-phosphosulfate + diphosphate
+RXN0-7235	70.    	a reduced electron-transfer flavoprotein + an electron-transfer quinone[inner membrane]  ->  an oxidized electron-transfer flavoprotein + an electron-transfer quinol[inner membrane] + H+
+ADENYLYLSULFKIN-RXN	0.8272854516232218    	adenosine 5'-phosphosulfate + ATP  ->  3'-phosphoadenylyl-sulfate + ADP + H+
+RXN-20154	10.    	acetyl-CoA + a [protein]-L-cysteine  <-->  a [protein] S-acetyl-L-cysteine + coenzyme A
+UROGENDECARBOX-RXN	6.1308333175722220000d-4	uroporphyrinogen-III + 4 H+  ->  4 CO2 + coproporphyrinogen III
+RXN0-5120	5.2357316532066780000d-3	UDP-alpha-D-glucose + alpha-Hep-(1->3)-alpha-Hep-(1->5)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->6)-lipid A (E. coli)  ->  glucosyl-(heptosyl)2-Kdo2-lipid A + UDP + H+
+PYRIMSYN3-RXN	3.0654166587861110000d-4	4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + ATP  ->  4-amino-2-methyl-5-(diphosphooxymethyl)pyrimidine + ADP
+RXN0-7239	10.    	oleate[periplasm] + ATP + coenzyme A + H+[periplasm]  ->  oleoyl-CoA + AMP + diphosphate + H+
+RXN-21526	9.1962499763583340000d-4	a holo-[hydroxymethylbilane synthase] + porphobilinogen  ->  a holo [hydroxymethylbilane synthase] ES intermediate + ammonium
+DHBAMPLIG-RXN	9.1962499763583330000d-4	ATP + 2,3-dihydroxybenzoate + H+  ->  (2,3-dihydroxybenzoyl)adenylate + diphosphate
+DTMPKI-RXN	4.849182612533748400d-2	dTMP + ATP  ->  dTDP + ADP
+RXN-22711	0.21039180695912593    	chorismate + ammonia + H+  ->  (2S)-2-amino-4-deoxy-chorismate + H2O
+RXN-12570	10.    	(S)-3-hydroxyhexanoyl-CoA + NAD+  ->  3-oxohexanoyl-CoA + NADH + H+
+GLUTAMINESYN-RXN	2.763819509978142    	ammonium + L-glutamate + ATP  ->  L-glutamine + ADP + phosphate + H+
+RXN-17781	10.    	(S)-3-hydroxy-(7Z)-hexadecenoyl-CoA + NAD+  ->  3-oxo-(7Z)-hexadecenoyl-CoA + NADH + H+
+MALATE-DEH-RXN	49.55695809048102    	(S)-malate + NAD+  <-->  oxaloacetate + NADH + H+
+5.1.3.20-RXN	2.09429266128267120d-2	ADP-D-glycero-beta-D-manno-heptose  ->  ADP-L-glycero-beta-D-manno-heptose
+METHYLENETHFDEHYDROG-NADP-RXN	1.9796246203274792    	a 5,10-methylenetetrahydrofolate + NADP+  <-->  a 5,10-methenyltetrahydrofolate + NADPH
+ACETOLACTREDUCTOISOM-RXN	2.39205803926718    	(S)-2-acetolactate + NADPH + H+  ->  (2R)-2,3-dihydroxy-3-methylbutanoate + NADP+
+RXN0-313	1.99934546749899    	beta-D-fructofuranose 6-phosphate  <-->  dihydroxyacetone + D-glyceraldehyde 3-phosphate
+O-SUCCHOMOSERLYASE-RXN	0.4993747662162102    	L-cysteine + O-succinyl-L-homoserine  <-->  succinate + L-cystathionine + H+
+RXN0-4342	2.09429266128267120d-2	D-glycero-beta-D-manno-heptose 1-phosphate + ATP + H+  ->  ADP-D-glycero-beta-D-manno-heptose + diphosphate
+RXN0-5061	5.2357316532066780000d-3	alpha-Hep-(1->5)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->6)-lipid A (E. coli) + ADP-L-glycero-beta-D-manno-heptose  ->  alpha-Hep-(1->3)-alpha-Hep-(1->5)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->6)-lipid A (E. coli) + ADP + H+
+RXN0-5123	5.2357316532066780000d-3	glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate (E. coli) + ATP  ->  glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli) + ADP + H+
+PRPPAMIDOTRANS-RXN	0.8272364049566888    	5-phospho-alpha-D-ribose 1-diphosphate + L-glutamine + H2O  ->  5-phospho-beta-D-ribosylamine + L-glutamate + diphosphate
+PYRROLINECARBREDUCT-RXN	0.7841918242340041    	(S)-1-pyrroline-5-carboxylate + NAD(P)H + 2 H+  ->  L-proline + NAD(P)+
+DIMETHUROPORDEHYDROG-RXN	3.0654166587861110000d-4	precorrin-2 + NAD+  ->  sirohydrochlorin + NADH + 2 H+
+RXN-11667	10.    	(S)-3-hydroxybutanoyl-CoA  <-->  crotonyl-CoA + H2O
+RXN-22729	0.21039180695912593    	(2S)-2-amino-4-deoxy-chorismate  ->  anthranilate + pyruvate + H+
+GLUC1PURIDYLTRANS-RXN	2.09429266128267120d-2	alpha-D-glucopyranose 1-phosphate + UTP + H+  <-->  UDP-alpha-D-glucose + diphosphate
+GLUTATHIONE-SYN-RXN	3.0654166587861110000d-4	glycine + gamma-L-glutamyl-L-cysteine + ATP  ->  ADP + glutathione + phosphate + H+
+1.5.1.20-RXN	0.6921864086371978    	a 5-methyltetrahydrofolate + NAD(P)+  <-->  a 5,10-methylenetetrahydrofolate + NAD(P)H + H+
+GLYCOLALD-DEHYDROG-RXN	1.2261666635144368000d-3	glycolaldehyde + NAD+ + H2O  ->  glycolate + NADH + 2 H+
+GPPSYN-RXN	8.905035393773651000d-3	prenyl diphosphate + 3-methylbut-3-en-1-yl diphosphate  ->  geranyl diphosphate + diphosphate
+RXN-14274	10.    	3-oxododecanoyl-CoA + coenzyme A  ->  decanoyl-CoA + acetyl-CoA
+RXN-8340	3.0654166587861110000d-4	GTP + S-adenosyl-L-methionine + a reduced two electron carrier  ->  (8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate + L-methionine + 5'-deoxyadenosine + an oxidized electron carrier + H+
+HOMSUCTRAN-RXN	0.4993747662162102    	L-homoserine + succinyl-CoA  ->  O-succinyl-L-homoserine + coenzyme A
+RXN-17472	3.0654166587861110000d-4	a sulfurated [sulfur carrier] + dethiobiotin + 2 a reduced [2Fe-2S] ferredoxin + S-adenosyl-L-methionine + H+  ->  an unsulfurated [sulfur carrier] + 4,5-secobiotin + 5'-deoxyadenosine + L-methionine + 2 an oxidized [2Fe-2S] ferredoxin
+RXN-14394	10.    	3-oxo-(5Z)-tetradecenoyl-CoA + coenzyme A  ->  (3Z)-dodec-3-enoyl-CoA + acetyl-CoA
+RXN-8991	1.0137118311439555    	(2R,3S)-3-isopropylmalate  <-->  2-isopropylmaleate + H2O
+ISOCIT-CLEAV-RXN	32.032906191122244    	D-threo-isocitrate  <-->  glyoxylate + succinate
+RXN-9772	1.2261666635144444000d-3	L-aspartate + fumarate  ->  2-iminosuccinate + succinate + H+
+325-BISPHOSPHATE-NUCLEOTIDASE-RXN	0.8272854516232218    	adenosine 3',5'-bisphosphate + H2O  ->  AMP + phosphate
+RXN0-742	0.8269298632908102    	5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + ATP + hydrogencarbonate  ->  N5-carboxyaminoimidazole ribonucleotide + ADP + phosphate + 2 H+
+RXN-17809	3.0654166587861110000d-4	(8S)-3',8-cyclo-7,8-dihydroguanosine 5'-triphosphate  ->  cyclic pyranopterin phosphate + diphosphate
+ACETOOHBUTSYN-RXN	0.8989518276889797    	pyruvate + 2-oxobutanoate + H+  ->  (S)-2-aceto-2-hydroxybutanoate + CO2
+NAG1P-URIDYLTRANS-RXN	3.10649324201384470d-2	N-acetyl-alpha-D-glucosamine 1-phosphate + UTP + H+  ->  UDP-N-acetyl-alpha-D-glucosamine + diphosphate
+AIRS-RXN	0.8272364049566888    	ATP + 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine  ->  ADP + 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + phosphate + H+
+PANTOATE-BETA-ALANINE-LIG-RXN	1.226166663517032100d-3	beta-alanine + (R)-pantoate + ATP  ->  (R)-pantothenate + AMP + diphosphate + H+
+PHOSACETYLTRANS-RXN	1.8411566844334337    	acetyl-CoA + phosphate  <-->  acetyl phosphate + coenzyme A
+ARGSUCCINSYN-RXN	0.918080027639805    	L-aspartate + L-citrulline + ATP  ->  L-arginino-succinate + AMP + diphosphate + H+
+UDPNACETYLMURAMATEDEHYDROG-RXN	7.678868730259207000d-3	UDP-N-acetyl-alpha-D-glucosamine-enolpyruvate + NADPH + H+  ->  UDP-N-acetyl-alpha-D-muramate + NADP+
+PORPHOBILSYNTH-RXN	3.6784999905433335000d-3	2 5-aminolevulinate  ->  porphobilinogen + H+ + 2 H2O
+RXN0-5126	5.2357316532066780000d-3	UDP-alpha-D-glucose + galactosyl-(glucosyl)2-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli)  ->  galactosyl-(glucosyl)3-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli) + UDP + H+
+PSERTRANSAM-RXN	5.049955142017630    	O-phospho-L-serine + 2-oxoglutarate  <-->  3-phosphooxypyruvate + L-glutamate
+CHORISMATEMUT-RXN	1.1861599107006269    	chorismate  ->  prephenate
+RIBOFLAVIN-SYN-RXN	9.1962499763583340000d-4	2 6,7-dimethyl-8-(1-D-ribityl)lumazine + H+  ->  5-amino-6-(D-ribitylamino)uracil + riboflavin
+DIAMINOPIMDECARB-RXN	1.1093467000647645    	meso-diaminopimelate + H+  ->  L-lysine + CO2
+RXN-11811	59.14965143752186    	ammonia + H+  <-->  ammonium
+GLUTKIN-RXN	0.7841918242340041    	L-glutamate + ATP  ->  gamma-L-glutamyl 5-phosphate + ADP
+2.3.1.157-RXN	3.10649324201384470d-2	alpha-D-glucosamine 1-phosphate + acetyl-CoA  ->  N-acetyl-alpha-D-glucosamine 1-phosphate + coenzyme A + H+
+KDO-8PPHOSPHAT-RXN	1.047146330641335600d-2	3-deoxy-D-manno-octulosonate 8-phosphate + H2O  ->  3-deoxy-alpha-D-manno-2-octulosonate + phosphate
+LIPIDADISACCHARIDESYNTH-RXN	5.2357316532066780000d-3	lipid X (E. coli) + UDP-2-N,3-O-bis[(3R)-3-hydroxytetradecanoyl]-alpha-D-glucosamine  ->  lipid A disaccharide (E. coli) + UDP + H+
+RXN-17900	0.32515181041410157    	phosphoribulosylformimino-AICAR-phosphate + ammonia  ->  D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide + H2O
+SAICARSYN-RXN	0.8269298632908102    	ATP + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-aspartate  ->  ADP + 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole + phosphate + H+
+RXN0-2382	0.21039180695912593    	indole + L-serine  ->  L-tryptophan + H2O
+ACETYLORNDEACET-RXN	1.0033997695037988    	N-acetyl-L-ornithine + H2O  ->  L-ornithine + acetate
+TETRAACYLDISACC4KIN-RXN	5.2357316532066780000d-3	lipid A disaccharide (E. coli) + ATP  ->  lipid IVA (E. coli) + ADP + H+
+RXN0-3281	4.291583322300547300d-3	formate + 2 an oxidized ferredoxin [iron-sulfur] cluster  ->  CO2 + 2 a reduced ferredoxin [iron-sulfur] cluster + H+
+ALANINE-AMINOTRANSFERASE-RXN	2.0877939779660446    	2-oxoglutarate + L-alanine  <-->  L-glutamate + pyruvate
+PHOSNACMURPENTATRANS-RXN	7.678868730259207000d-3	UDP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP-D-Ala-D-Ala + di-trans,octa-cis-undecaprenyl phosphate  ->  Und-PP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP-D-Ala-D-Ala + UMP
+ASPAMINOTRANS-RXN	19.68769979938699    	L-aspartate + 2-oxoglutarate  <-->  oxaloacetate + L-glutamate
+UNDECAPRENYL-DIPHOSPHATASE-RXN	7.678868730259207000d-3	di-trans,octa-cis-undecaprenyl diphosphate + H2O  ->  di-trans,octa-cis-undecaprenyl phosphate + phosphate + H+
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	1.0137118311439555    	L-leucine + 2-oxoglutarate  <-->  4-methyl-2-oxopentanoate + L-glutamate
+CITSYN-RXN	48.799036469530265    	oxaloacetate + acetyl-CoA + H2O  ->  citrate + coenzyme A + H+
+QUINOLINATE-SYNTHA-RXN	1.2261666635144444000d-3	2-iminosuccinate + glycerone phosphate  ->  quinolinate + phosphate + 2 H2O
+DADPKIN-RXN	4.849182612533748400d-2	dADP + ATP  ->  dATP + ADP
+RIBOFLAVINSYNREDUC-RXN	9.1962499763583340000d-4	5-amino-6-(5-phospho-D-ribosylamino)uracil + NADPH + H+  ->  5-amino-6-(5-phospho-D-ribitylamino)uracil + NADP+
+RXN-10814	0.6503066862448619    	L-phenylalanine + 2-oxoglutarate  <-->  3-phenyl-2-oxopropanoate + L-glutamate
+RXN-22438	3.0654166587861110000d-4	a 5,10-methylenetetrahydrofolate + NADH + H+  ->  a 5-methyltetrahydrofolate + NAD+
+RXN-12002	0.5776716385149251    	ATP + UMP  ->  ADP + UDP
+RXN-12490	10.    	(S)-3-hydroxydecanoyl-CoA + NAD+  ->  3-oxodecanoyl-CoA + NADH + H+
+GLUCOSAMINE-6-P-DEAMIN-RXN	3.10649324201384470d-2	D-glucosamine 6-phosphate + H2O  <-->  ammonium + beta-D-fructofuranose 6-phosphate
+GLUTSEMIALDEHYDROG-RXN	0.7841918242340041    	gamma-L-glutamyl 5-phosphate + NADPH + H+  ->  L-glutamate-5-semialdehyde + NADP+ + phosphate
+2-ISOPROPYLMALATESYN-RXN	1.0137118311439555    	3-methyl-2-oxobutanoate + acetyl-CoA + H2O  ->  (2S)-2-isopropylmalate + coenzyme A + H+
+GLYOHMETRANS-RXN	2.7221421050852888    	L-serine + a tetrahydrofolate  <-->  glycine + a 5,10-methylenetetrahydrofolate + H2O
+2.5.1.19-RXN	1.3996171343185388    	shikimate 3-phosphate + phosphoenolpyruvate  <-->  5-enolpyruvoyl-shikimate 3-phosphate + phosphate
+GTP-CYCLOHYDRO-II-RXN	9.1962499763583340000d-4	GTP + 4 H2O  ->  2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + formate + 2 phosphate + 3 H+
+2PGADEHYDRAT-RXN	11.045368569660226    	2-phospho-D-glycerate  <-->  phosphoenolpyruvate + H2O
+HISTALDEHYD-RXN	0.32515181041410157    	histidinal + NAD+ + H2O  ->  L-histidine + NADH + 2 H+
+IMP-DEHYDROG-RXN	0.4509074634241429    	IMP + NAD+ + H2O  <-->  XMP + NADH + H+
+KDOTRANS2-RXN	5.2357316532066780000d-3	alpha-Kdo-(2->6)-lipid IVA (E. coli) + CMP-3-deoxy-beta-D-manno-octulosonate  ->  alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA (E. coli) + CMP + H+
+SUCCINYLDIAMINOPIMTRANS-RXN	1.1170255687950237    	2-oxoglutarate + N-succinyl-L,L-2,6-diaminopimelate  <-->  L-glutamate + N-succinyl-2-amino-6-ketopimelate
+RXN-15216	0.19281164242098758    	(2S)-2-hydroxy-3,4-dioxopentyl phosphate  ->  3-hydroxy-2,4-dioxopentyl phosphate
+ADENPRIBOSYLTRAN-RXN	0.21616705194427896    	5-phospho-alpha-D-ribose 1-diphosphate + adenine  ->  AMP + diphosphate
+OROPRIBTRANS-RXN	0.6132488642567967    	orotidine 5'-phosphate + diphosphate  <-->  5-phospho-alpha-D-ribose 1-diphosphate + orotate
+PGLUCISOM-RXN	3.56569265750000360d-2	alpha-D-glucose 6-phosphate  <-->  beta-D-fructofuranose 6-phosphate
+UDP-NACMURALA-GLU-LIG-RXN	7.678868730259207000d-3	D-glutamate + UDP-N-acetyl-alpha-D-muramoyl-L-alanine + ATP  ->  UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate + ADP + phosphate + H+
+PHOSPHASERSYN-RXN	0.371136125712552    	a CDP-diacylglycerol + L-serine  ->  CMP + a phosphatidylserine + H+
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	1.6164003350112337    	L-aspartate 4-semialdehyde + NADP+ + phosphate  <-->  L-aspartyl-4-phosphate + NADPH + H+
+PREPHENATEDEHYDROG-RXN	0.5358532244557649    	prephenate + NAD+  ->  3-(4-hydroxyphenyl)pyruvate + CO2 + NADH
+RXN-20675	10.    	(S)-3-hydroxydodecanoyl-CoA  <-->  (2E)-dodec-2-enoyl-CoA + H2O
+DAPASYN-RXN	3.0654166587861110000d-4	(8S)-8-amino-7-oxononanoate + S-adenosyl-L-methionine  <-->  S-adenosyl-4-methylsulfanyl-2-oxobutanoate + (7R,8S)-diaminononanoate
+RIBOSYLHOMOCYSTEINASE-RXN	0.19281164242098758    	S-ribosyl-L-homocysteine  ->  L-homocysteine + autoinducer 2
+DEOXYRIBOSE-P-ALD-RXN	4.849182612533748400d-2	2-deoxy-D-ribose 5-phosphate  <-->  acetaldehyde + D-glyceraldehyde 3-phosphate
+GLYCDEH-RXN	1.855190161897354600d-2	glycerol + NAD+  <-->  dihydroxyacetone + NADH + H+
+RXN-13616	10.    	(S)-3-hydroxydecanoyl-CoA  <-->  (2E)-dec-2-enoyl-CoA + H2O
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	1.3996171343185388    	3-dehydroquinate  <-->  3-dehydroshikimate + H2O
+RXN-7800	1.0137118311439555    	(2S)-2-isopropyl-3-oxosuccinate + H+  ->  4-methyl-2-oxopentanoate + CO2
+HISTIDPHOS-RXN	0.32515181041410157    	L-histidinol phosphate + H2O  ->  histidinol + phosphate
+RXN0-7272	3.124885741966561000d-2	a phosphatidylethanolamine + glycerol  ->  a phosphatidylglycerol + ethanolamine
+RXN-8642	16.76613027840802    	oxalosuccinate + H+  <-->  2-oxoglutarate + CO2
+INORGPYROPHOSPHAT-RXN	16.686617881143434    	diphosphate + H2O  ->  2 phosphate + H+
+RXN-17777	10.    	(S)-3-hydroxy-(9Z)-octadecenoyl-CoA + NAD+  ->  3-oxo-(9Z)-octadecenoyl-CoA + NADH + H+
+ACETALD-DEHYDROG-RXN	1.9107814930044404    	coenzyme A + acetaldehyde + NAD+  <-->  acetyl-CoA + NADH + H+
+SHIKIMATE-KINASE-RXN	1.3996171343185388    	shikimate + ATP  ->  shikimate 3-phosphate + ADP + H+
+NACGLCTRANS-RXN	7.678868730259207000d-3	Und-PP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP-D-Ala-D-Ala + UDP-N-acetyl-alpha-D-glucosamine  <-->  Und-PP-[beta-D-GlcNAc-(1->4)]-MurNAc-L-Ala-gamma-D-Glu-meso-DAP-D-Ala-D-Ala + UDP + H+
+ACONITATEHYDR-RXN	48.799036469530265    	cis-aconitate + H2O  <-->  D-threo-isocitrate
+ADENYLOSUCCINATE-SYNTHASE-RXN	0.7011742102807689    	L-aspartate + IMP + GTP  ->  adenylosuccinate + GDP + phosphate + 2 H+
+RXN-15878	9.36638060092096200d-2	2-C-methyl-D-erythritol-2,4-cyclodiphosphate + a reduced flavodoxin  ->  (E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + an oxidized flavodoxin + H2O + H+
+OXALODECARB-RXN	8.35901111684404    	oxaloacetate + H+  ->  pyruvate + CO2
+UDPACYLGLCNACDEACETYL-RXN	1.047146330641335600d-2	UDP-3-O-[(3R)-3-hydroxymyristoyl]-N-acetyl-alpha-D-glucosamine + H2O  ->  UDP-3-O-[(3R)-3-hydroxymyristoyl]-alpha-D-glucosamine + acetate
+ASPDECARBOX-RXN	1.226166663517032100d-3	L-aspartate + H+  ->  beta-alanine + CO2
+RXN0-5118	5.2357316532066780000d-3	alpha-D-Kdo-(2->4)-alpha-D-Kdo-(2->6)-lipid A (E. coli) + ADP-L-glycero-beta-D-manno-heptose  ->  alpha-Hep-(1->5)-[alpha-Kdo-(2->4)]-alpha-Kdo-(2->6)-lipid A (E. coli) + ADP + H+
+RXN-20679	10.    	(3S)-3-hydroxyoctanoyl-CoA + NAD+  ->  3-oxooctanoyl-CoA + NADH + H+
+PYRIMSYN1-RXN	3.0654166587861110000d-4	5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + S-adenosyl-L-methionine  ->  4-amino-2-methyl-5-(phosphooxymethyl)pyrimidine + 5'-deoxyadenosine + L-methionine + formate + carbon monoxide + 3 H+
+RIBULP3EPIM-RXN	1.9116806818910246    	D-ribulose 5-phosphate  <-->  D-xylulose 5-phosphate
+RXN-21525	9.1962499763583340000d-4	a [hydroxymethylbilane synthase] ES4 intermediate + H2O  ->  preuroporphyrinogen + a holo-[hydroxymethylbilane synthase]
+RXN0-5393	10.    	(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA  <-->  (2E,5Z)-tetradec-2,5-enoyl-CoA + H2O
+DIHYDROOROT-RXN	0.6132488642567967    	(S)-dihydroorotate + H2O  <-->  N-carbamoyl-L-aspartate + H+
+TRANS-RXN0-615	2.05965345303838750d-2	5-(methylsulfanyl)-D-ribose[periplasm]  <-->  5-(methylsulfanyl)-D-ribose[extracellular space]
+DTDPKIN-RXN	4.849182612533748400d-2	dTDP + ATP  ->  dTTP + ADP
+FADSYN-RXN	3.0654166587861110000d-4	ATP + FMN + H+  <-->  FAD + diphosphate
+TRANS-RXN0-601	518.7438596739167    	an ion[periplasm]  <-->  an ion[extracellular space]
+RXN-22915	1.226166663517032100d-3	(R)-4'-phosphopantothenoyl-cytidylate + L-cysteine  ->  (R)-4'-phosphopantothenoyl-L-cysteine + CMP + 2 H+
+TRANS-RXN0-544	31.47081197826174    	ammonia[periplasm]  <-->  ammonia[cytosol]
+RXN-12567	10.    	(S)-3-hydroxyhexanoyl-CoA  <-->  (2E)-hex-2-enoyl-CoA + H2O
+GUANYL-KIN-RXN	0.4509074634241429    	GMP + ATP  <-->  GDP + ADP
+RXN-16804	1.047146330641335600d-2	aldehydo-D-arabinose 5-phosphate  <-->  D-arabinofuranose 5-phosphate
+3-ISOPROPYLMALISOM-RXN	1.0137118311439555    	2-isopropylmaleate + H2O  <-->  (2S)-2-isopropylmalate
+HOMOCYSMET-RXN	0.6921864086371978    	L-homocysteine + 5-methyltetrahydropteroyl tri-L-glutamate  ->  L-methionine + tetrahydropteroyl tri-L-glutamate
+RXN-8675	3.0654166587861110000d-4	precorrin-1 + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + precorrin-2
+TRANS-RXN0-547	212.28614043582593    	H2O[out]  <-->  H2O[in]
+RXN0-1802	10.    	a long-chain fatty acid[extracellular space]  ->  a long-chain fatty acid[periplasm]
+RXN-17780	10.    	(S)-3-hydroxy-(7Z)-hexadecenoyl-CoA  <-->  (2E,7Z)-hexadec-2,7-dienoyl-CoA + H2O
+TRANS-RXN0-607	3.0654166587861110000d-4	a short-chain fatty alcohol[periplasm]  <-->  a short-chain fatty alcohol[extracellular space]
+RXN1ZN3-9	3.0654166587861110000d-4	(7R,8S)-diaminononanoate + CO2  ->  (7R,8S)-8-amino-7-(carboxyamino)nonanoate + 2 H+
+RXN-15123	0.8989518276889797    	2-iminobutanoate + H2O  ->  2-oxobutanoate + ammonium
+NAD-SYNTH-NH3-RXN	1.2261666635144444000d-3	ammonium + ATP + nicotinate adenine dinucleotide  ->  AMP + NAD+ + diphosphate + H+
+RXN-15943	0.19281164242098758    	3-hydroxy-2,4-dioxopentyl phosphate + coenzyme A  ->  glycerone phosphate + acetyl-CoA
+P-PANTOCYSDECARB-RXN	1.226166663517032100d-3	(R)-4'-phosphopantothenoyl-L-cysteine + H+  ->  CO2 + 4'-phosphopantetheine
+RXN0-4341	2.09429266128267120d-2	D-glycero-D-manno-heptose 7-phosphate + ATP  ->  D-glycero-beta-D-manno-heptose 1,7-bisphosphate + ADP + H+
+UDPKIN-RXN	0.6167648971644244    	UDP + ATP  ->  UTP + ADP
+ATPPHOSPHORIBOSYLTRANS-RXN	0.32515181041410157    	1-(5-phospho-beta-D-ribosyl)-ATP + diphosphate  <-->  ATP + 5-phospho-alpha-D-ribose 1-diphosphate
+UROPORIIIMETHYLTRANSA-RXN	3.0654166587861110000d-4	uroporphyrinogen-III + S-adenosyl-L-methionine  ->  S-adenosyl-L-homocysteine + precorrin-1 + H+
+RXN0-5122	5.2357316532066780000d-3	glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate + ADP-L-glycero-beta-D-manno-heptose  ->  glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate (E. coli) + ADP + H+
+CDPKIN-RXN	0.5371284377858225    	CDP + ATP  ->  CTP + ADP
+DIHYDROXYMETVALDEHYDRAT-RXN	0.8989518276889797    	(R)-2,3-dihydroxy-3-methylpentanoate  ->  (3S)-3-methyl-2-oxopentanoate + H2O
+RXN0-7124	115.39004484621076    	nitrate + a ubiquinol[inner membrane] + 2 H+  ->  nitrite + a ubiquinone[inner membrane] + 2 H+[periplasm] + H2O
+DURIDKI-RXN	4.849182612533748400d-2	2'-deoxyuridine + ATP  ->  dUMP + ADP + H+
+RXN-11662	10.    	(S)-3-hydroxybutanoyl-CoA + NAD+  <-->  acetoacetyl-CoA + NADH + H+
+ATPSYN-RXN	257.76794766686317    	ATP + H2O + 3 H+[cytosol]  <-->  ADP + phosphate + 4 H+[periplasm]
+FGAMSYN-RXN	0.8272364049566888    	ATP + N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + L-glutamine + H2O  ->  ADP + 2-(formamido)-N1-(5-phospho-beta-D-ribosyl)acetamidine + L-glutamate + phosphate + H+
+GLUC1PADENYLTRANS-RXN	1.47139999621733300d-2	alpha-D-glucopyranose 1-phosphate + ATP + H+  ->  ADP-alpha-D-glucose + diphosphate
+RXN-12587	3.0654166587861110000d-4	an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + an unsulfurated [sulfur carrier]  <-->  an [L-cysteine desulfurase]-L-cysteine + a sulfurated [sulfur carrier]
+H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	1.2261666635144368000d-3	7,8-dihydroneopterin 3'-triphosphate + H2O  ->  7,8-dihydroneopterin 3'-phosphate + diphosphate + H+
+RXN-14393	10.    	(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA + NAD+  ->  3-oxo-(5Z)-tetradecenoyl-CoA + NADH + H+
+ISOCHORSYN-RXN	1.5327083293930555000d-3	chorismate  <-->  isochorismate
+RXN-17783	10.    	(5Z)-tetradecenoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E,5Z)-tetradec-2,5-enoyl-CoA + a reduced electron-transfer flavoprotein
+MALSYN-RXN	30.428556008996708    	acetyl-CoA + glyoxylate + H2O  ->  (S)-malate + coenzyme A + H+
+5.3.3.14-RXN	0.5112226016024184    	a (2E)-dec-2-enoyl-[acp]  <-->  a (3Z)-dec-3-enoyl-[acp]
+TRANS-RXN0-459	3.0654166587861110000d-4	methanol[cytosol]  ->  methanol[periplasm]
+ACETOOHBUTREDUCTOISOM-RXN	0.8989518276889797    	(S)-2-aceto-2-hydroxybutanoate + NADPH + H+  ->  (R)-2,3-dihydroxy-3-methylpentanoate + NADP+
+SPONTPRO-RXN	0.7841918242340041    	(S)-1-pyrroline-5-carboxylate + H+ + H2O  <-->  L-glutamate-5-semialdehyde
+ADCLY-RXN	1.2261666635144368000d-3	4-amino-4-deoxychorismate  ->  4-aminobenzoate + pyruvate + H+
+O-SUCCINYLBENZOATE-COA-SYN-RXN	6.1308333175722220000d-4	(1R,6R)-6-hydroxy-2-succinylcyclohexa-2,4-diene-1-carboxylate  ->  2-succinylbenzoate + H2O
+AICARTRANSFORM-RXN	1.1520816737049118    	an N10-formyltetrahydrofolate + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide  <-->  a tetrahydrofolate + 5-formamido-1-(5-phospho-D-ribosyl)-imidazole-4-carboxamide
+ARGSUCCINLYA-RXN	0.918080027639805    	L-arginino-succinate  <-->  L-arginine + fumarate
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	7.678868730259207000d-3	UDP-N-acetyl-alpha-D-glucosamine + phosphoenolpyruvate  ->  UDP-N-acetyl-alpha-D-glucosamine-enolpyruvate + phosphate
+DIHYDROOROTATE-DEHYDROGENASE-RXN	0.6132488642567967    	(S)-dihydroorotate + an electron-transfer quinone[inner membrane]  ->  orotate + an electron-transfer quinol[inner membrane]
+RXN0-5125	5.2357316532066780000d-3	UDP-alpha-D-glucose + galactosyl-(1->6)-glucosyl-(1->3)-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli)  ->  galactosyl-(glucosyl)2-(heptosyl)3-Kdo2-lipid A-bisphosphate (E. coli) + UDP + H+
+PRTRANS-RXN	0.21039180695912593    	anthranilate + 5-phospho-alpha-D-ribose 1-diphosphate  ->  N-(5-phosphoribosyl)-anthranilate + diphosphate
+CHORISMATE-SYNTHASE-RXN	1.3996171343185388    	5-enolpyruvoyl-shikimate 3-phosphate  ->  chorismate + phosphate
+RXN0-5388	133.41104658652768    	NADH + a menaquinone[inner membrane] + 5 H+  ->  NAD+ + a menaquinol[inner membrane] + 4 H+[periplasm]
+RIB5PISOM-RXN	1.8993699685893395    	D-ribose 5-phosphate  <-->  D-ribulose 5-phosphate
+TRANS-RXN0-586	0.8272854516232218    	sulfate[periplasm] + H+[periplasm]  <-->  sulfate[cytosol] + H+[cytosol]
+DXS-RXN	9.39703476750882300d-2	pyruvate + D-glyceraldehyde 3-phosphate + H+  ->  CO2 + 1-deoxy-D-xylulose 5-phosphate
+PGLYCDEHYDROG-RXN	5.049955142017630    	3-phospho-D-glycerate + NAD+  <-->  3-phosphooxypyruvate + NADH + H+
+RXN-22736	1.5313288918966017    	carboxyphosphate + ammonia  ->  carbamate + phosphate + H+
+UDP-NACMURALGLDAPLIG-RXN	7.678868730259207000d-3	meso-diaminopimelate + UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate + ATP  ->  UDP-MurNAc-L-Ala-gamma-D-Glu-meso-DAP + ADP + phosphate + H+
+ASPCARBTRANS-RXN	0.6132488642567967    	L-aspartate + carbamoyl phosphate  ->  N-carbamoyl-L-aspartate + phosphate + H+
+RXN-20678	10.    	(3S)-3-hydroxyoctanoyl-CoA  <-->  (2E)-oct-2-enoyl-CoA + H2O
+CPM-KDOSYNTH-RXN	1.047146330641335600d-2	3-deoxy-alpha-D-manno-2-octulosonate + CTP  ->  CMP-3-deoxy-beta-D-manno-octulosonate + diphosphate
+GLYCOLATEDEHYDRO-RXN	9.1962499763583330000d-4	glycolate + an oxidized electron carrier  ->  glyoxylate + a reduced two electron carrier
+RXN-14014	1.1170255687950237    	(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + NAD(P)H + H+  ->  (S)-2,3,4,5-tetrahydrodipicolinate + NAD(P)+ + H2O
+RXN-21524	9.1962499763583340000d-4	a [hydroxymethylbilane synthase] ES3 intermediate + porphobilinogen  ->  a [hydroxymethylbilane synthase] ES4 intermediate + ammonium
+DGDPKIN-RXN	5.00551886213184000d-2	dGDP + ATP  ->  dGTP + ADP
+DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	1.2261666635144368000d-3	7,8-dihydroneopterin 3'-phosphate + H2O  ->  D-erythro-7,8-dihydroneopterin + phosphate
+RXN-11484	3.0654166587861110000d-4	a pimeloyl-[acp] + L-alanine + H+  ->  (8S)-8-amino-7-oxononanoate + CO2 + acyl-carrier protein
+H2PTEROATESYNTH-RXN	1.2261666635144368000d-3	4-aminobenzoate + (7,8-dihydropterin-6-yl)methyl diphosphate  ->  7,8-dihydropteroate + diphosphate
+RXN-14278	10.    	hexanoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E)-hex-2-enoyl-CoA + a reduced electron-transfer flavoprotein
+RXN-22697	6.1308333175722220000d-4	an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + a [molybdopterin synthase sulfurtransferase]-L-cysteine  ->  an [L-cysteine desulfurase]-L-cysteine + a [molybdopterin synthase sulfurtransferase]-S-sulfanyl-L-cysteine
+TRANS-RXN0-239	248.8029306827337    	nitrate[periplasm] + nitrite[cytosol]  ->  nitrate[cytosol] + nitrite[periplasm]
+RXN-22914	1.226166663517032100d-3	(R)-4'-phosphopantothenate + CTP + H+  ->  (R)-4'-phosphopantothenoyl-cytidylate + diphosphate
+RXN-8999	7.985410396137819000d-3	(2E,6E)-farnesyl diphosphate + 8 3-methylbut-3-en-1-yl diphosphate  ->  di-trans,octa-cis-undecaprenyl diphosphate + 8 diphosphate
+RXN-12565	10.    	butanoyl-CoA + acetyl-CoA  <-->  3-oxohexanoyl-CoA + coenzyme A
+RXN-23907	7.356999981086667000d-3	(L-glutamyl)adenylate + a tRNAglu  ->  an L-glutamyl-[tRNAGlu] + AMP + H+
+RXN0-884	8.905035393773651000d-3	(E)-4-hydroxy-3-methylbut-2-en-1-yl diphosphate + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+  ->  prenyl diphosphate + 2 an oxidized ferredoxin [iron-sulfur] cluster + H2O
+TRANS-RXN0-556	6.1308333175722220000d-4	carbon monoxide[out]  <-->  carbon monoxide[in]
+GLYRIBONUCSYN-RXN	0.8272364049566888    	ATP + 5-phospho-beta-D-ribosylamine + glycine  ->  ADP + N1-(5-phospho-beta-D-ribosyl)glycinamide + phosphate + H+
+RXN0-2381	0.21039180695912593    	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate  <-->  indole + D-glyceraldehyde 3-phosphate
+2.7.1.148-RXN	9.36638060092096200d-2	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + ATP  ->  2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol + ADP + H+
+ACETYLGLUTKIN-RXN	1.0033997695037988    	N-acetyl-L-glutamate + ATP  ->  N-acetylglutamyl-phosphate + ADP
+SUCCDIAMINOPIMDESUCC-RXN	1.1170255687950237    	N-succinyl-L,L-2,6-diaminopimelate + H2O  ->  L,L-diaminopimelate + succinate
+3-ISOPROPYLMALDEHYDROG-RXN	1.0137118311439555    	(2R,3S)-3-isopropylmalate + NAD+  ->  (2S)-2-isopropyl-3-oxosuccinate + NADH + H+
+RXN-14229	10.    	octanoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E)-oct-2-enoyl-CoA + a reduced electron-transfer flavoprotein
+RXN-7931	10.    	(3Z)-dodec-3-enoyl-CoA  <-->  (2E)-dodec-2-enoyl-CoA
+TETHYDPICSUCC-RXN	1.1170255687950237    	(S)-2,3,4,5-tetrahydrodipicolinate + succinyl-CoA + H2O  ->  N-succinyl-2-amino-6-ketopimelate + coenzyme A
+HISTPRATPHYD-RXN	0.32515181041410157    	1-(5-phospho-beta-D-ribosyl)-ATP + H2O  ->  1-(5-phospho-beta-D-ribosyl)-AMP + diphosphate + H+
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	44.776489440288074    	succinate + a ubiquinone[inner membrane]  ->  fumarate + a ubiquinol[inner membrane]
+THYMIDYLATESYN-RXN	4.849182612533748400d-2	a 5,10-methylenetetrahydrofolate + dUMP  ->  dTMP + a 7,8-dihydrofolate
+RXN-17779	10.    	(7Z)-hexadecenoyl-CoA + an oxidized electron-transfer flavoprotein + H+  ->  (2E,7Z)-hexadec-2,7-dienoyl-CoA + a reduced electron-transfer flavoprotein
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	0.8989518276889797    	L-isoleucine + 2-oxoglutarate  <-->  (3S)-3-methyl-2-oxopentanoate + L-glutamate
+RXN1ZN3-10	3.0654166587861110000d-4	(7R,8S)-8-amino-7-(carboxyamino)nonanoate + ATP  ->  dethiobiotin + ADP + phosphate + H+
+ACETATEKIN-RXN	1.8411566844334337    	acetate + ATP  <-->  acetyl phosphate + ADP
+RXN-15122	0.8989518276889797    	L-threonine  ->  (Z)-2-aminobutenoate + H2O
+D-PPENTOMUT-RXN	4.849182612533748400d-2	2-deoxy-alpha-D-ribose 1-phosphate  <-->  2-deoxy-D-ribose 5-phosphate
+RIBOFLAVINSYNDEAM-RXN	9.1962499763583340000d-4	2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one + H+ + H2O  ->  5-amino-6-(5-phospho-D-ribosylamino)uracil + ammonium
+SULFITE-REDUCT-RXN	0.8272854516232218    	sulfite + 3 NADPH + 5 H+  ->  hydrogen sulfide + 3 NADP+ + 3 H2O
+RXN0-308	1.2261666635144444000d-3	an [L-cysteine desulfurase]-L-cysteine + L-cysteine  ->  an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + L-alanine
+ADOMET-DMK-METHYLTRANSFER-RXN	3.0654166587861110000d-4	S-adenosyl-L-methionine + demethylmenaquinol-8  ->  S-adenosyl-L-homocysteine + menaquinol-8 + H+
+THREONINE-ALDOLASE-RXN	1.8935385242987686    	L-threonine  <-->  acetaldehyde + glycine
+TRIOSEPISOMERIZATION-RXN	2.41882014850394    	D-glyceraldehyde 3-phosphate  <-->  glycerone phosphate
+ENTF-RXN	9.1962499763583330000d-4	L-serine + ATP + H+  ->  (L-seryl)adenylate + diphosphate
+RXN0-4301	2.09429266128267120d-2	D-sedoheptulose 7-phosphate  ->  D-glycero-D-manno-heptose 7-phosphate
+PGPPHOSPHA-RXN	0.1106860647154489    	a phosphatidylglycerophosphate + H2O  ->  a phosphatidylglycerol + phosphate
+RXN-11832	0.587183626407141    	ATP + CMP  <-->  ADP + CDP
+UDPGLUCEPIM-RXN	5.2357316532066780000d-3	UDP-alpha-D-glucose  <-->  UDP-alpha-D-galactose
+RXN-20155	10.    	a [protein] S-acetyl-L-cysteine + acetyl-CoA  <-->  acetoacetyl-CoA + a [protein]-L-cysteine
+ATPASE-RXN	3.15    	ATP + H2O  ->  ADP + phosphate + H+
+GART-RXN	0.8272364049566888    	an N10-formyltetrahydrofolate + N1-(5-phospho-beta-D-ribosyl)glycinamide  <-->  a tetrahydrofolate + N2-formyl-N1-(5-phospho-beta-D-ribosyl)glycinamide + H+
+UROGENIIISYN-RXN	9.1962499763583340000d-4	preuroporphyrinogen  ->  uroporphyrinogen-III + H2O
+RXN0-5121	5.2357316532066780000d-3	glucosyl-(heptosyl)2-Kdo2-lipid A + ATP  ->  glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate + ADP + H+
+PROTOHEMEFERROCHELAT-RXN	6.1308333175722220000d-4	protoheme + 2 H+  <-->  protoporphyrin IX + Fe2+
+CDPDIGLYSYN-RXN	0.4818221904280009    	CTP + a phosphatidate + H+  ->  a CDP-diacylglycerol + diphosphate
+GLUTRNAREDUCT-RXN	7.356999981086667000d-3	an L-glutamyl-[tRNAGlu] + NADPH + H+  ->  (S)-4-amino-5-oxopentanoate + a tRNAglu + NADP+
+2-DEHYDROPANTOATE-REDUCT-RXN	1.226166663517032100d-3	2-dehydropantoate + NADPH + H+  ->  (R)-pantoate + NADP+
+DCDPKIN-RXN	5.00551886213184000d-2	dCDP + ATP  ->  dCTP + ADP
+RXN-21527	9.1962499763583340000d-4	a holo [hydroxymethylbilane synthase] ES intermediate + porphobilinogen  ->  a [hydroxymethylbilane synthase] ES2 intermediate + ammonium
+DHBDEHYD-RXN	9.1962499763583330000d-4	(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate + NAD+  ->  2,3-dihydroxybenzoate + NADH + H+
+GTP-CYCLOHYDRO-I-RXN	1.2261666635144368000d-3	GTP + H2O  ->  formate + 7,8-dihydroneopterin 3'-triphosphate + H+
+DIHYDROXYISOVALDEHYDRAT-RXN	2.39205803926718    	(2R)-2,3-dihydroxy-3-methylbutanoate  ->  3-methyl-2-oxobutanoate + H2O
+HEMN-RXN	6.1308333175722220000d-4	coproporphyrinogen III + 2 S-adenosyl-L-methionine  ->  protoporphyrinogen IX + 2 CO2 + 2 L-methionine + 2 5'-deoxyadenosine
+RXN-16998	3.56569265750000360d-2	alpha-D-glucose 1,6-bisphosphate + a phosphoglucomutase  <-->  D-glucopyranose 6-phosphate + a phosphorylated phosphoglucomutase
+RXN0-7249	2.0178973691179634    	glycerone phosphate + H2O  ->  dihydroxyacetone + phosphate
+RXN-22713	1.2261666635144368000d-3	chorismate + ammonia + H+  ->  4-amino-4-deoxychorismate + H2O
+IMIDPHOSDEHYD-RXN	0.32515181041410157    	D-erythro-1-(imidazol-4-yl)-glycerol 3-phosphate  ->  3-(imidazol-4-yl)-2-oxopropyl phosphate + H2O
+3.2.2.10-RXN	4.849182612533748400d-2	a pyrimidine ribonucleotide + H2O  ->  D-ribose 5-phosphate + a pyrimidine base
+RXN-9311	6.1308333175722220000d-4	1,4-dihydroxy-2-naphthoyl-CoA + H2O  ->  1,4-dihydroxy-2-naphthoate + coenzyme A + H+
+KDOTRANS-RXN	5.2357316532066780000d-3	CMP-3-deoxy-beta-D-manno-octulosonate + lipid IVA (E. coli)  ->  alpha-Kdo-(2->6)-lipid IVA (E. coli) + CMP + H+
+TRANS-RXN0-461	2.05965345303838750d-2	5-(methylsulfanyl)-D-ribose[cytosol]  ->  5-(methylsulfanyl)-D-ribose[periplasm]
+GMP-SYN-NH3-RXN	0.4509074634241429    	XMP + ammonia + ATP  ->  GMP + AMP + diphosphate + H+
+TRANS-RXN0-545	114.9388762741682    	CO2[out]  <-->  CO2[in]
+H2NEOPTERINALDOL-RXN	1.2261666635144368000d-3	D-erythro-7,8-dihydroneopterin  ->  glycolaldehyde + 6-(hydroxymethyl)-7,8-dihydropterin
+RXN-16909	1.5313288918966017    	hydrogencarbonate + ATP  ->  carboxyphosphate + ADP
+NICONUCADENYLYLTRAN-RXN	1.2261666635144444000d-3	ATP + beta-nicotinate D-ribonucleotide + H+  ->  nicotinate adenine dinucleotide + diphosphate
+HOMOSERDEHYDROG-RXN	0.4993747662162102    	L-aspartate 4-semialdehyde + NAD(P)H + H+  ->  L-homoserine + NAD(P)+
+RXN0-3501	133.41288583652295    	nitrate + a menaquinol[inner membrane] + 2 H+  ->  nitrite + a menaquinone[inner membrane] + H2O + 2 H+[periplasm]
+ORNDECARBOX-RXN	8.53197418639938300d-2	L-ornithine + H+  ->  CO2 + putrescine
+RXN-14382	3.0654166587861110000d-4	an [L-cysteine desulfurase]-S-sulfanyl-L-cysteine + a [ThiI sulfur-carrier protein]-L-cysteine  =  an [L-cysteine desulfurase]-L-cysteine + a [ThiI sulfur-carrier protein]-S-sulfanyl-L-cysteine
+RXN-8899	0.4993747662162102    	2-aminoprop-2-enoate + H2O  ->  pyruvate + ammonium
+ISOCHORMAT-RXN	9.1962499763583330000d-4	isochorismate + H2O  ->  pyruvate + (2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate
+UDP-NACMUR-ALA-LIG-RXN	7.678868730259207000d-3	L-alanine + UDP-N-acetyl-alpha-D-muramate + ATP  ->  UDP-N-acetyl-alpha-D-muramoyl-L-alanine + ADP + phosphate + H+
+RXN-17782	10.    	3-oxo-(7Z)-hexadecenoyl-CoA + coenzyme A  ->  (5Z)-tetradecenoyl-CoA + acetyl-CoA
+PHOSPHASERDECARB-RXN	0.371136125712552    	a phosphatidylserine + H+  ->  a phosphatidylethanolamine + CO2
+ASPARTASE-RXN	26.316902426511362    	L-aspartate  <-->  ammonium + fumarate
+MALATE-DEHYDROGENASE-NADP+-RXN	1.7761428668402701    	(S)-malate + NADP+  <-->  oxaloacetate + NADPH + H+
+PREPHENATEDEHYDRAT-RXN	0.6503066862448619    	prephenate + H+  ->  3-phenyl-2-oxopropanoate + CO2 + H2O
+RXN-20674	1.3996171343185388    	3-deoxy-D-arabino-heptulopyranuronate 7-phosphate  ->  3-dehydroquinate + phosphate
+ACETOLACTSYN-RXN	2.39205803926718    	2 pyruvate + H+  ->  (S)-2-acetolactate + CO2
+SPERMIDINESYN-RXN	2.05965345303838750d-2	putrescine + S-adenosyl 3-(methylsulfanyl)propylamine  ->  spermidine + S-methyl-5'-thioadenosine + H+
+R15-RXN	3.2111526975781004    	L-methionine + a 2-oxo carboxylate  <-->  4-(methylsulfanyl)-2-oxobutanoate + a proteinogenic amino acid
+DALADALALIG-RXN	7.678868730259207000d-3	2 D-alanine + ATP  ->  D-alanyl-D-alanine + ADP + phosphate + H+
+RIBOPHOSPHAT-RXN	9.1962499763583340000d-4	5-amino-6-(5-phospho-D-ribitylamino)uracil + H2O  ->  5-amino-6-(D-ribitylamino)uracil + phosphate

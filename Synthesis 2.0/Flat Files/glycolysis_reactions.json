@@ -1,0 +1,109 @@
+[
+    {
+        "Reaction ID": "PEPDEPHOS-RXN",
+        "Substrates": [
+            "PROTON",
+            "ADP",
+            "PHOSPHO-ENOL-PYRUVATE"
+        ],
+        "Products": [
+            "PYRUVATE",
+            "ATP"
+        ]
+    },
+    {
+        "Reaction ID": "2PGADEHYDRAT-RXN",
+        "Substrates": [
+            "2-PG"
+        ],
+        "Products": [
+            "PHOSPHO-ENOL-PYRUVATE",
+            "WATER"
+        ]
+    },
+    {
+        "Reaction ID": "GAPOXNPHOSPHN-RXN",
+        "Substrates": [
+            "GAP",
+            "Pi",
+            "NAD"
+        ],
+        "Products": [
+            "PROTON",
+            "DPG",
+            "NADH"
+        ]
+    },
+    {
+        "Reaction ID": "TRIOSEPISOMERIZATION-RXN_reverse",
+        "Substrates": [
+            "DIHYDROXY-ACETONE-PHOSPHATE"
+        ],
+        "Products": [
+            "GAP"
+        ]
+    },
+    {
+        "Reaction ID": "PGLUCISOM-RXN",
+        "Substrates": [
+            "GLC-6-P"
+        ],
+        "Products": [
+            "FRUCTOSE-6P"
+        ]
+    },
+    {
+        "Reaction ID": "GLUCOKIN-RXN",
+        "Substrates": [
+            "Glucopyranose",
+            "ATP"
+        ],
+        "Products": [
+            "GLC-6-P",
+            "ADP",
+            "PROTON"
+        ]
+    },
+    {
+        "Reaction ID": "PHOSGLYPHOS-RXN_reverse",
+        "Substrates": [
+            "DPG",
+            "ADP"
+        ],
+        "Products": [
+            "G3P",
+            "ATP"
+        ]
+    },
+    {
+        "Reaction ID": "6PFRUCTPHOS-RXN",
+        "Substrates": [
+            "FRUCTOSE-6P",
+            "ATP"
+        ],
+        "Products": [
+            "PROTON",
+            "ADP",
+            "FRUCTOSE-16-DIPHOSPHATE"
+        ]
+    },
+    {
+        "Reaction ID": "3PGAREARR-RXN_reverse",
+        "Substrates": [
+            "G3P"
+        ],
+        "Products": [
+            "2-PG"
+        ]
+    },
+    {
+        "Reaction ID": "F16ALDOLASE-RXN",
+        "Substrates": [
+            "FRUCTOSE-16-DIPHOSPHATE"
+        ],
+        "Products": [
+            "DIHYDROXY-ACETONE-PHOSPHATE",
+            "GAP"
+        ]
+    }
+]

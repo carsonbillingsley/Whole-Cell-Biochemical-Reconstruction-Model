@@ -1,0 +1,9 @@
+{
+    "git_hash": "a6925e177822d3e0edbcea74796c22952ae770bd",
+    "n_ignored_generations": 2,
+    "n_total_generations": 4,
+    "n_seeds": 64,
+    "n_cells": 128,
+    "n_timesteps": 382604,
+    "protein_validation_r_squared": 0.3028763218221399
+}

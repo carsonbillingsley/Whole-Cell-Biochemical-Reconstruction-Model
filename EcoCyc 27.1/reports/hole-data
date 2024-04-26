@@ -1,0 +1,1252 @@
+(setf *pwy-list-p* nil)
+(setf *hole-data* '
+((RXN-19737
+  #S(HIT-STRUCT :SNAME "EG11423-MONOMER"
+                :FNAME EG11423-MONOMER
+                :DATA (#S(HITDATA :NAME "EG11423-MONOMER"
+                                  :BSCORE 731.095
+                                  :EVAL 0
+                                  :ALN-LEN 357
+                                  :SBJ-START 1
+                                  :SBJ-END 357
+                                  :QUERY-LEN 357
+                                  :QRY-START 1
+                                  :QRY-END 357
+                                  :QUERY "P27242"
+                                  :LENGTH 357
+                                  :RANK 1
+                                  :NUM-HITS 5
+                                  :NUM-QS 1
+                                  :IDENTITY 357
+                                  :POSITIVE 357
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.997185
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 180
+                                               :ALN 1.0
+                                               :DIRECTON NIL
+                                               :ADJACENT T
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.05634953 0.42171428)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.038383015 0.33257142)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL))
+ (NADPYROPHOSPHAT-RXN
+  #S(HIT-STRUCT :SNAME "EG11702-MONOMER"
+                :FNAME EG11702-MONOMER
+                :DATA (#S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 407.142
+                                  :EVAL 1.80139d-144
+                                  :ALN-LEN 257
+                                  :SBJ-START 1
+                                  :SBJ-END 257
+                                  :QUERY-LEN 261
+                                  :QRY-START 1
+                                  :QRY-END 257
+                                  :QUERY "B2VG76"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 8
+                                  :NUM-QS 9
+                                  :IDENTITY 190
+                                  :POSITIVE 219
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 236.498
+                                  :EVAL 1.82291d-77
+                                  :ALN-LEN 254
+                                  :SBJ-START 4
+                                  :SBJ-END 254
+                                  :QUERY-LEN 266
+                                  :QRY-START 6
+                                  :QRY-END 259
+                                  :QUERY "Q6LLW5"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 9
+                                  :NUM-QS 9
+                                  :IDENTITY 112
+                                  :POSITIVE 166
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 233.802
+                                  :EVAL 2.46711d-76
+                                  :ALN-LEN 260
+                                  :SBJ-START 3
+                                  :SBJ-END 252
+                                  :QUERY-LEN 267
+                                  :QRY-START 2
+                                  :QRY-END 261
+                                  :QUERY "Q65W71"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 9
+                                  :IDENTITY 116
+                                  :POSITIVE 165
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 214.542
+                                  :EVAL 6.14103d-69
+                                  :ALN-LEN 244
+                                  :SBJ-START 9
+                                  :SBJ-END 249
+                                  :QUERY-LEN 269
+                                  :QRY-START 11
+                                  :QRY-END 254
+                                  :QUERY "B7VM66"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 10
+                                  :NUM-QS 9
+                                  :IDENTITY 105
+                                  :POSITIVE 149
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 198.364
+                                  :EVAL 2.14407d-62
+                                  :ALN-LEN 254
+                                  :SBJ-START 9
+                                  :SBJ-END 253
+                                  :QUERY-LEN 280
+                                  :QRY-START 23
+                                  :QRY-END 272
+                                  :QUERY "Q9RV62"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 9
+                                  :IDENTITY 114
+                                  :POSITIVE 143
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 177.948
+                                  :EVAL 8.58801d-55
+                                  :ALN-LEN 237
+                                  :SBJ-START 13
+                                  :SBJ-END 245
+                                  :QUERY-LEN 265
+                                  :QRY-START 17
+                                  :QRY-END 253
+                                  :QUERY "Q7NTZ8"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 12
+                                  :NUM-QS 9
+                                  :IDENTITY 98
+                                  :POSITIVE 134
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 164.851
+                                  :EVAL 1.65615d-49
+                                  :ALN-LEN 211
+                                  :SBJ-START 46
+                                  :SBJ-END 250
+                                  :QUERY-LEN 278
+                                  :QRY-START 56
+                                  :QRY-END 266
+                                  :QUERY "A6V6Z8"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 11
+                                  :NUM-QS 9
+                                  :IDENTITY 88
+                                  :POSITIVE 125
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "EG11702-MONOMER"
+                                  :BSCORE 51.2174
+                                  :EVAL 2.33866d-9
+                                  :ALN-LEN 118
+                                  :SBJ-START 125
+                                  :SBJ-END 232
+                                  :QUERY-LEN 147
+                                  :QRY-START 8
+                                  :QRY-END 123
+                                  :QUERY "Q9CA40"
+                                  :LENGTH 257
+                                  :RANK 1
+                                  :NUM-HITS 9
+                                  :NUM-QS 9
+                                  :IDENTITY 33
+                                  :POSITIVE 61
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.973682
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 8
+                                               :EVALS 143.74439225247096d0
+                                               :ALN 0.8979505
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.12658228 0.15657143)
+                                         :EVALS (0.0024499795 0.046857145)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 8
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "CPDB-MONOMER"
+                :FNAME CPDB-MONOMER
+                :DATA (#S(HITDATA :NAME "CPDB-MONOMER"
+                                  :BSCORE 58.5362
+                                  :EVAL 7.70174d-10
+                                  :ALN-LEN 586
+                                  :SBJ-START 22
+                                  :SBJ-END 550
+                                  :QUERY-LEN 603
+                                  :QRY-START 35
+                                  :QRY-END 545
+                                  :QUERY "P44569"
+                                  :LENGTH 647
+                                  :RANK 2
+                                  :NUM-HITS 2
+                                  :NUM-QS 9
+                                  :IDENTITY 131
+                                  :POSITIVE 226
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.003399874
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 2.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 9.113411146641777d0
+                                               :ALN 0.9718076
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.18619844 0.25942856)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.3846468 0.006857143)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "G7740-MONOMER"
+                :FNAME G7740-MONOMER
+                :DATA (#S(HITDATA :NAME "G7740-MONOMER"
+                                  :BSCORE 30.4166
+                                  :EVAL 0.0320751d0
+                                  :ALN-LEN 129
+                                  :SBJ-START 50
+                                  :SBJ-END 156
+                                  :QUERY-LEN 147
+                                  :QRY-START 11
+                                  :QRY-END 134
+                                  :QUERY "Q9CA40"
+                                  :LENGTH 186
+                                  :RANK 8
+                                  :NUM-HITS 9
+                                  :NUM-QS 9
+                                  :IDENTITY 35
+                                  :POSITIVE 58
+                                  :FRAME NIL))
+                :P-HAS-FCN 3.1425914e-4
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 8.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 1.4938319809583185d0
+                                               :ALN 0.877551
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.04450796 0.0057142857)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.3846468 0.006857143)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "GDPMANMANHYDRO-MONOMER"
+                :FNAME GDPMANMANHYDRO-MONOMER
+                :DATA (#S(HITDATA :NAME "GDPMANMANHYDRO-MONOMER"
+                                  :BSCORE 30.8018
+                                  :EVAL 0.0227737d0
+                                  :ALN-LEN 118
+                                  :SBJ-START 14
+                                  :SBJ-END 128
+                                  :QUERY-LEN 147
+                                  :QRY-START 6
+                                  :QRY-END 116
+                                  :QUERY "Q9CA40"
+                                  :LENGTH 159
+                                  :RANK 6
+                                  :NUM-HITS 9
+                                  :NUM-QS 9
+                                  :IDENTITY 28
+                                  :POSITIVE 51
+                                  :FRAME NIL))
+                :P-HAS-FCN 2.4295521e-4
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 6.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 1.6425664046487212d0
+                                               :ALN 0.8027211
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.05757452 0.0057142857)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.3846468 0.006857143)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "G6580-MONOMER"
+                :FNAME G6580-MONOMER
+                :DATA (#S(HITDATA :NAME "G6580-MONOMER"
+                                  :BSCORE 36.1946
+                                  :EVAL 2.52303d-4
+                                  :ALN-LEN 154
+                                  :SBJ-START 4
+                                  :SBJ-END 151
+                                  :QUERY-LEN 147
+                                  :QRY-START 8
+                                  :QRY-END 144
+                                  :QUERY "Q9CA40"
+                                  :LENGTH 153
+                                  :RANK 4
+                                  :NUM-HITS 9
+                                  :NUM-QS 9
+                                  :IDENTITY 41
+                                  :POSITIVE 63
+                                  :FRAME NIL))
+                :P-HAS-FCN 1.7796837e-4
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 4.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 3.5980775854883715d0
+                                               :ALN 1.0
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.12576562 0.009142857)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.3846468 0.006857143)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL))
+ (RXN-19340
+  #S(HIT-STRUCT :SNAME "COBALADENOSYLTRANS-MONOMER"
+                :FNAME COBALADENOSYLTRANS-MONOMER
+                :DATA (#S(HITDATA :NAME "COBALADENOSYLTRANS-MONOMER"
+                                  :BSCORE 370.548
+                                  :EVAL 3.40806d-132
+                                  :ALN-LEN 196
+                                  :SBJ-START 1
+                                  :SBJ-END 196
+                                  :QUERY-LEN 196
+                                  :QRY-START 1
+                                  :QRY-END 196
+                                  :QUERY "P31570"
+                                  :LENGTH 196
+                                  :RANK 1
+                                  :NUM-HITS 6
+                                  :NUM-QS 2
+                                  :IDENTITY 175
+                                  :POSITIVE 185
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.9416885
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 131.467492767943d0
+                                               :ALN 1.0
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.009391588 0.04)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "G7289-MONOMER"
+                :FNAME G7289-MONOMER
+                :DATA (#S(HITDATA :NAME "G7289-MONOMER"
+                                  :BSCORE 487.649
+                                  :EVAL 5.98154d-176
+                                  :ALN-LEN 265
+                                  :SBJ-START 1
+                                  :SBJ-END 265
+                                  :QUERY-LEN 267
+                                  :QRY-START 1
+                                  :QRY-END 265
+                                  :QUERY "Q9ZFV4"
+                                  :LENGTH 267
+                                  :RANK 1
+                                  :NUM-HITS 1
+                                  :NUM-QS 2
+                                  :IDENTITY 235
+                                  :POSITIVE 249
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.8737148
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 175.22318698868736d0
+                                               :ALN 0.99250937
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.05634953 0.42171428)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL))
+ (PROPIONYL-COA-CARBOXY-RXN
+  #S(HIT-STRUCT :SNAME "BIOTIN-CARBOXYL-MONOMER"
+                :FNAME BIOTIN-CARBOXYL-MONOMER
+                :DATA (#S(HITDATA :NAME "BIOTIN-CARBOXYL-MONOMER"
+                                  :BSCORE 416.772
+                                  :EVAL 3.00421d-140
+                                  :ALN-LEN 445
+                                  :SBJ-START 1
+                                  :SBJ-END 444
+                                  :QUERY-LEN 601
+                                  :QRY-START 1
+                                  :QRY-END 444
+                                  :QUERY "I3R7G3"
+                                  :LENGTH 449
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 2
+                                  :IDENTITY 215
+                                  :POSITIVE 297
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "BIOTIN-CARBOXYL-MONOMER"
+                                  :BSCORE 394.815
+                                  :EVAL 6.48404d-133
+                                  :ALN-LEN 448
+                                  :SBJ-START 2
+                                  :SBJ-END 444
+                                  :QUERY-LEN 510
+                                  :QRY-START 4
+                                  :QRY-END 450
+                                  :QUERY "A4YD22"
+                                  :LENGTH 449
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 2
+                                  :IDENTITY 209
+                                  :POSITIVE 295
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.79746455
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 2
+                                               :EVALS 139.52226971259543d0
+                                               :ALN 0.809432
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.009391588 0.04)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 2
+                :SSCORE-LESS-THAN-2? NIL))
+ (RXN-21565
+  #S(HIT-STRUCT :SNAME "G7325-MONOMER"
+                :FNAME G7325-MONOMER
+                :DATA (#S(HITDATA :NAME "G7325-MONOMER"
+                                  :BSCORE 837.025
+                                  :EVAL 0
+                                  :ALN-LEN 404
+                                  :SBJ-START 1
+                                  :SBJ-END 404
+                                  :QUERY-LEN 404
+                                  :QRY-START 1
+                                  :QRY-END 404
+                                  :QUERY "P0A6B7"
+                                  :LENGTH 404
+                                  :RANK 1
+                                  :NUM-HITS 5
+                                  :NUM-QS 1
+                                  :IDENTITY 404
+                                  :POSITIVE 404
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.997185
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 180
+                                               :ALN 1.0
+                                               :DIRECTON NIL
+                                               :ADJACENT T
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.05634953 0.42171428)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.038383015 0.33257142)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL))
+ (THIOREDOXIN-RXN) (CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN)
+ (RXN-19366
+  #S(HIT-STRUCT :SNAME "COBALADENOSYLTRANS-MONOMER"
+                :FNAME COBALADENOSYLTRANS-MONOMER
+                :DATA (#S(HITDATA :NAME "COBALADENOSYLTRANS-MONOMER"
+                                  :BSCORE 370.548
+                                  :EVAL 3.40806d-132
+                                  :ALN-LEN 196
+                                  :SBJ-START 1
+                                  :SBJ-END 196
+                                  :QUERY-LEN 196
+                                  :QRY-START 1
+                                  :QRY-END 196
+                                  :QUERY "P31570"
+                                  :LENGTH 196
+                                  :RANK 1
+                                  :NUM-HITS 6
+                                  :NUM-QS 1
+                                  :IDENTITY 175
+                                  :POSITIVE 185
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.99506426
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 1
+                                               :EVALS 131.467492767943d0
+                                               :ALN 1.0
+                                               :DIRECTON NIL
+                                               :ADJACENT T
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.009391588 0.04)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.038383015 0.33257142)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 1
+                :SSCORE-LESS-THAN-2? NIL))
+ (RXN-20000) (RXN-16690) (RXN-16689) (RXN-16691) (RXN-16685) (RXN-16687) (RXN-16688)
+ (RXN-11474
+  #S(HIT-STRUCT :SNAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                :FNAME 3-OXOACYL-ACP-SYNTHII-MONOMER
+                :DATA (#S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 392.504
+                                  :EVAL 6.2991d-134
+                                  :ALN-LEN 412
+                                  :SBJ-START 1
+                                  :SBJ-END 412
+                                  :QUERY-LEN 416
+                                  :QRY-START 4
+                                  :QRY-END 414
+                                  :QUERY "P73283"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 206
+                                  :POSITIVE 284
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 376.711
+                                  :EVAL 9.8861d-128
+                                  :ALN-LEN 419
+                                  :SBJ-START 4
+                                  :SBJ-END 412
+                                  :QUERY-LEN 421
+                                  :QRY-START 2
+                                  :QRY-END 417
+                                  :QUERY "P56902"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 11
+                                  :IDENTITY 206
+                                  :POSITIVE 280
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 350.903
+                                  :EVAL 4.96997d-117
+                                  :ALN-LEN 436
+                                  :SBJ-START 2
+                                  :SBJ-END 413
+                                  :QUERY-LEN 461
+                                  :QRY-START 29
+                                  :QRY-END 461
+                                  :QUERY "Q8L3X9"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 7
+                                  :NUM-QS 11
+                                  :IDENTITY 214
+                                  :POSITIVE 286
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 344.739
+                                  :EVAL 1.6055d-114
+                                  :ALN-LEN 411
+                                  :SBJ-START 3
+                                  :SBJ-END 410
+                                  :QUERY-LEN 473
+                                  :QRY-START 60
+                                  :QRY-END 468
+                                  :QUERY "P52410"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 189
+                                  :POSITIVE 275
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 323.939
+                                  :EVAL 1.49208d-105
+                                  :ALN-LEN 410
+                                  :SBJ-START 3
+                                  :SBJ-END 410
+                                  :QUERY-LEN 541
+                                  :QRY-START 129
+                                  :QRY-END 537
+                                  :QUERY "Q9C9P4"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 3
+                                  :NUM-QS 11
+                                  :IDENTITY 184
+                                  :POSITIVE 256
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 318.546
+                                  :EVAL 1.47995d-104
+                                  :ALN-LEN 417
+                                  :SBJ-START 3
+                                  :SBJ-END 410
+                                  :QUERY-LEN 460
+                                  :QRY-START 42
+                                  :QRY-END 457
+                                  :QUERY "Q0VCA7"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 179
+                                  :POSITIVE 266
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 311.612
+                                  :EVAL 2.64486d-102
+                                  :ALN-LEN 424
+                                  :SBJ-START 4
+                                  :SBJ-END 413
+                                  :QUERY-LEN 426
+                                  :QRY-START 2
+                                  :QRY-END 424
+                                  :QUERY "O94297"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 181
+                                  :POSITIVE 267
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 277.715
+                                  :EVAL 5.33984d-89
+                                  :ALN-LEN 441
+                                  :SBJ-START 4
+                                  :SBJ-END 412
+                                  :QUERY-LEN 442
+                                  :QRY-START 3
+                                  :QRY-END 438
+                                  :QUERY "P39525"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 175
+                                  :POSITIVE 265
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 263.462
+                                  :EVAL 5.21636d-84
+                                  :ALN-LEN 413
+                                  :SBJ-START 4
+                                  :SBJ-END 412
+                                  :QUERY-LEN 406
+                                  :QRY-START 2
+                                  :QRY-END 403
+                                  :QUERY "P43710"
+                                  :LENGTH 413
+                                  :RANK 2
+                                  :NUM-HITS 2
+                                  :NUM-QS 11
+                                  :IDENTITY 165
+                                  :POSITIVE 237
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 220.32
+                                  :EVAL 2.64764d-67
+                                  :ALN-LEN 409
+                                  :SBJ-START 6
+                                  :SBJ-END 410
+                                  :QUERY-LEN 420
+                                  :QRY-START 16
+                                  :QRY-END 417
+                                  :QUERY "O69473"
+                                  :LENGTH 413
+                                  :RANK 1
+                                  :NUM-HITS 9
+                                  :NUM-QS 11
+                                  :IDENTITY 148
+                                  :POSITIVE 227
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "3-OXOACYL-ACP-SYNTHII-MONOMER"
+                                  :BSCORE 199.904
+                                  :EVAL 1.06593d-59
+                                  :ALN-LEN 418
+                                  :SBJ-START 4
+                                  :SBJ-END 412
+                                  :QUERY-LEN 407
+                                  :QRY-START 2
+                                  :QRY-END 406
+                                  :QUERY "Q8KA28"
+                                  :LENGTH 413
+                                  :RANK 2
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 138
+                                  :POSITIVE 217
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.9837327
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.1818181
+                                               :STDEV NIL
+                                               :SSCORE 11
+                                               :EVALS 133.20072149704723d0
+                                               :ALN 0.9523476
+                                               :DIRECTON NIL
+                                               :ADJACENT T
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.18619844 0.25942856)
+                                         :STDEV NIL
+                                         :SSCORE (0.11474071 0.09828571)
+                                         :EVALS (0.009391588 0.04)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.038383015 0.33257142)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 11
+                :SSCORE-LESS-THAN-2? NIL)
+  #S(HIT-STRUCT :SNAME "FABB-MONOMER"
+                :FNAME FABB-MONOMER
+                :DATA (#S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 546.584
+                                  :EVAL 0
+                                  :ALN-LEN 406
+                                  :SBJ-START 1
+                                  :SBJ-END 403
+                                  :QUERY-LEN 407
+                                  :QRY-START 1
+                                  :QRY-END 406
+                                  :QUERY "Q8KA28"
+                                  :LENGTH 406
+                                  :RANK 1
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 255
+                                  :POSITIVE 320
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 595.119
+                                  :EVAL 0
+                                  :ALN-LEN 404
+                                  :SBJ-START 1
+                                  :SBJ-END 403
+                                  :QUERY-LEN 406
+                                  :QRY-START 1
+                                  :QRY-END 403
+                                  :QUERY "P43710"
+                                  :LENGTH 406
+                                  :RANK 1
+                                  :NUM-HITS 2
+                                  :NUM-QS 11
+                                  :IDENTITY 294
+                                  :POSITIVE 335
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 260.381
+                                  :EVAL 1.26688d-82
+                                  :ALN-LEN 420
+                                  :SBJ-START 1
+                                  :SBJ-END 403
+                                  :QUERY-LEN 421
+                                  :QRY-START 1
+                                  :QRY-END 417
+                                  :QUERY "P56902"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 7
+                                  :NUM-QS 11
+                                  :IDENTITY 162
+                                  :POSITIVE 240
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 232.261
+                                  :EVAL 2.14543d-71
+                                  :ALN-LEN 431
+                                  :SBJ-START 2
+                                  :SBJ-END 401
+                                  :QUERY-LEN 461
+                                  :QRY-START 31
+                                  :QRY-END 458
+                                  :QUERY "Q8L3X9"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 7
+                                  :NUM-QS 11
+                                  :IDENTITY 156
+                                  :POSITIVE 224
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 229.95
+                                  :EVAL 5.377d-71
+                                  :ALN-LEN 425
+                                  :SBJ-START 1
+                                  :SBJ-END 404
+                                  :QUERY-LEN 426
+                                  :QRY-START 1
+                                  :QRY-END 424
+                                  :QUERY "O94297"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 145
+                                  :POSITIVE 231
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 227.254
+                                  :EVAL 1.27183d-68
+                                  :ALN-LEN 416
+                                  :SBJ-START 2
+                                  :SBJ-END 405
+                                  :QUERY-LEN 541
+                                  :QRY-START 130
+                                  :QRY-END 541
+                                  :QUERY "Q9C9P4"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 3
+                                  :NUM-QS 11
+                                  :IDENTITY 148
+                                  :POSITIVE 229
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 214.927
+                                  :EVAL 2.83593d-65
+                                  :ALN-LEN 413
+                                  :SBJ-START 2
+                                  :SBJ-END 405
+                                  :QUERY-LEN 416
+                                  :QRY-START 7
+                                  :QRY-END 416
+                                  :QUERY "P73283"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 145
+                                  :POSITIVE 216
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 216.468
+                                  :EVAL 2.92631d-65
+                                  :ALN-LEN 418
+                                  :SBJ-START 2
+                                  :SBJ-END 405
+                                  :QUERY-LEN 473
+                                  :QRY-START 61
+                                  :QRY-END 472
+                                  :QUERY "P52410"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 4
+                                  :NUM-QS 11
+                                  :IDENTITY 152
+                                  :POSITIVE 220
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 211.846
+                                  :EVAL 1.08567d-63
+                                  :ALN-LEN 420
+                                  :SBJ-START 2
+                                  :SBJ-END 401
+                                  :QUERY-LEN 460
+                                  :QRY-START 43
+                                  :QRY-END 457
+                                  :QUERY "Q0VCA7"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 144
+                                  :POSITIVE 217
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 172.555
+                                  :EVAL 2.15124d-49
+                                  :ALN-LEN 404
+                                  :SBJ-START 5
+                                  :SBJ-END 399
+                                  :QUERY-LEN 420
+                                  :QRY-START 17
+                                  :QRY-END 415
+                                  :QUERY "O69473"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 9
+                                  :NUM-QS 11
+                                  :IDENTITY 130
+                                  :POSITIVE 206
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "FABB-MONOMER"
+                                  :BSCORE 171.4
+                                  :EVAL 7.12195d-49
+                                  :ALN-LEN 447
+                                  :SBJ-START 2
+                                  :SBJ-END 403
+                                  :QUERY-LEN 442
+                                  :QRY-START 3
+                                  :QRY-END 438
+                                  :QUERY "P39525"
+                                  :LENGTH 406
+                                  :RANK 2
+                                  :NUM-HITS 5
+                                  :NUM-QS 11
+                                  :IDENTITY 133
+                                  :POSITIVE 221
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.89486843
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.8181819
+                                               :STDEV NIL
+                                               :SSCORE 11
+                                               :EVALS 180
+                                               :ALN 0.9504122
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE T
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.18619844 0.25942856)
+                                         :STDEV NIL
+                                         :SSCORE (0.11474071 0.09828571)
+                                         :EVALS (0.05634953 0.42171428)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.068599425 0.232)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 11
+                :SSCORE-LESS-THAN-2? NIL))
+ (2.3.1.49-RXN) (RXN-7605) (DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN) (RXN0-6368)
+ (METHYLMALONYL-COA-EPIM-RXN
+  #S(HIT-STRUCT :SNAME "GLYOXI-MONOMER"
+                :FNAME GLYOXI-MONOMER
+                :DATA (#S(HITDATA :NAME "GLYOXI-MONOMER"
+                                  :BSCORE 42.743
+                                  :EVAL 6.0351d-7
+                                  :ALN-LEN 131
+                                  :SBJ-START 2
+                                  :SBJ-END 128
+                                  :QUERY-LEN 136
+                                  :QRY-START 7
+                                  :QRY-END 136
+                                  :QUERY "O58010"
+                                  :LENGTH 135
+                                  :RANK 1
+                                  :NUM-HITS 3
+                                  :NUM-QS 3
+                                  :IDENTITY 35
+                                  :POSITIVE 60
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "GLYOXI-MONOMER"
+                                  :BSCORE 31.9574
+                                  :EVAL 0.00625475d0
+                                  :ALN-LEN 131
+                                  :SBJ-START 5
+                                  :SBJ-END 126
+                                  :QUERY-LEN 140
+                                  :QRY-START 8
+                                  :QRY-END 138
+                                  :QUERY "A4YEG2"
+                                  :LENGTH 135
+                                  :RANK 1
+                                  :NUM-HITS 2
+                                  :NUM-QS 3
+                                  :IDENTITY 31
+                                  :POSITIVE 58
+                                  :FRAME NIL)
+                       #S(HITDATA :NAME "GLYOXI-MONOMER"
+                                  :BSCORE 31.9574
+                                  :EVAL 0.00766272d0
+                                  :ALN-LEN 129
+                                  :SBJ-START 5
+                                  :SBJ-END 127
+                                  :QUERY-LEN 139
+                                  :QRY-START 7
+                                  :QRY-END 134
+                                  :QUERY "A9WGS0"
+                                  :LENGTH 135
+                                  :RANK 1
+                                  :NUM-HITS 3
+                                  :NUM-QS 3
+                                  :IDENTITY 33
+                                  :POSITIVE 51
+                                  :FRAME NIL))
+                :P-HAS-FCN 0.016213294
+                :EVIDENCE-VALUES #S(HIT-VALUES :RANK 1.0
+                                               :STDEV NIL
+                                               :SSCORE 3
+                                               :EVALS 6.219315529363089d0
+                                               :ALN 0.9423358
+                                               :DIRECTON NIL
+                                               :ADJACENT NIL
+                                               :ZERO-EVAL NIL
+                                               :SAME-GENE NIL
+                                               :COEXPRESS NIL
+                                               :PHYP NIL
+                                               :NEIGHBORS NIL
+                                               :GCLUSTER NIL
+                                               :GFUSION NIL
+                                               :PCOMPLEX NIL)
+                :NODE-PROBS #S(HIT-PROBS :RANK (0.100857496 0.67885715)
+                                         :STDEV NIL
+                                         :SSCORE (0.6998775 0.4137143)
+                                         :EVALS (0.3846468 0.006857143)
+                                         :ALN (0.7844018 0.9462857)
+                                         :DIRECTON (0.97795016 0.9211429)
+                                         :ADJACENT (0.961617 0.66742855)
+                                         :ZERO-EVAL NIL
+                                         :SAME-GENE (0.9314006 0.768)
+                                         :COEXPRESS NIL
+                                         :PHYP NIL
+                                         :NEIGHBORS NIL
+                                         :GCLUSTER NIL
+                                         :GFUSION NIL
+                                         :PCOMPLEX NIL)
+                :SSCORE 3
+                :SSCORE-LESS-THAN-2? NIL))
+ (NMNNUCLEOSID-RXN . -1)) )

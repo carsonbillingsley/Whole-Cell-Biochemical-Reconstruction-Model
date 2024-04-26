@@ -1,0 +1,21 @@
+{
+  "version": "1.2",
+  "dbname": "protseq.fsa",
+  "dbtype": "Protein",
+  "db-version": 4,
+  "description": "ecoli.fsa",
+  "number-of-letters": 1336346,
+  "number-of-sequences": 4319,
+  "last-updated": "2023-08-16T16:55:00",
+  "number-of-volumes": 1,
+  "bytes-total": 2426474,
+  "bytes-to-cache": 1375290,
+  "files": [
+    "protseq.fsa.phr",
+    "protseq.fsa.pin",
+    "protseq.fsa.pog",
+    "protseq.fsa.psd",
+    "protseq.fsa.psi",
+    "protseq.fsa.psq"
+  ]
+}
